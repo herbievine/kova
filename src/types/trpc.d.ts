@@ -5,11 +5,9 @@ import {
 } from '@trpc/server'
 import { z } from 'zod'
 import { AppRouter } from '../server/router'
-import { wordModel, wordTypes } from '../utils/schema'
+import { wordModel, wordTypes } from '../server/schema/api'
 
 export type TWordType = z.infer<typeof wordTypes>
-
-export type TwordModel = z.infer<typeof wordModel>
 
 /**
  * tRPC Helpers

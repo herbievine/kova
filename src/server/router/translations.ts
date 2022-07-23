@@ -1,7 +1,7 @@
 import { createRouter } from './context'
 import { z } from 'zod'
 import { shuffle } from '../../utils/shuffle'
-import { wordModel, wordTypes } from '../../utils/schema'
+import { wordModel, wordTypes } from '../schema/api'
 
 const translationsGet = {
   input: z.object({
@@ -25,34 +25,40 @@ export const translationsRouter = createRouter().query('get', {
 
     const words = await z.array(wordModel).parseAsync(
       await ctx.prisma.word.findMany({
-        take: limit
+        take: limit,
+        where: {
+          ...(wordType && {
+            type: wordType
+          }),
+          ...(avoid && {
+            id: {
+              notIn: avoid
+            }
+          })
+        }
       })
     )
 
     return await translationsGet.output.parseAsync(
-      shuffle(
-        words
-          .filter(({ type }) => (wordType ? type === wordType : true))
-          .filter(({ id }) => !(avoid && avoid.includes(id)))
-          .slice(0, limit)
-          .map((word) =>
-            Math.random() > 0.5
-              ? {
-                  id: word.id,
-                  prompt: `Translate the ${word.type.toLowerCase()} '${
-                    word.word
-                  }' in English`,
-                  answer: word.translation
-                }
-              : {
-                  id: word.id,
-                  prompt: `Translate the ${word.type.toLowerCase()} '${
-                    word.translation
-                  }' in Italian`,
-                  answer: word.word
-                }
-          )
+      // shuffle(
+      words.map((word) =>
+        Math.random() > 0.5
+          ? {
+              id: word.id,
+              prompt: `Translate the ${word.type.toLowerCase()} '${
+                word.word
+              }' in English`,
+              answer: word.translation
+            }
+          : {
+              id: word.id,
+              prompt: `Translate the ${word.type.toLowerCase()} '${
+                word.translation
+              }' in Italian`,
+              answer: word.word
+            }
       )
+      // )
     )
   }
 })
