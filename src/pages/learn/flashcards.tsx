@@ -1,10 +1,8 @@
 import type { NextPage } from 'next'
 import type React from 'react'
 import { ChangeEvent, useEffect, useState } from 'react'
-import { z } from 'zod'
 import Spinner from '../../components/Spinner'
 import Page from '../../layouts/Page'
-import { WordTypes } from '../../types/globals'
 import type { InferQueryOutput, TWordType } from '../../types/trpc'
 import { trpc } from '../../utils/trpc'
 

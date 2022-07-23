@@ -1,6 +1,6 @@
 import { createRouter } from './context'
 import { z } from 'zod'
-import { progressModel } from '../../utils/schema'
+import { progressModel } from '../schema/api'
 
 const progressWords = {
   output: z.array(progressModel)
@@ -18,8 +18,6 @@ export const progressRouter = createRouter().query('words', {
         }
       })
     )
-
-    console.log(progress)
 
     return await progressWords.output.parseAsync(progress)
   }
