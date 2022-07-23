@@ -1,0 +1,5082 @@
+[
+  {
+    "word": "essere",
+    "translate": "to be",
+    "type": "verb"
+  },
+  {
+    "word": "avere",
+    "translate": "to have",
+    "type": "verb"
+  },
+  {
+    "word": "dire",
+    "translate": "to say",
+    "type": "verb"
+  },
+  {
+    "word": "potere",
+    "translate": "can",
+    "type": "verb"
+  },
+  {
+    "word": "volere",
+    "translate": "want",
+    "type": "verb"
+  },
+  {
+    "word": "sapere",
+    "translate": "to know",
+    "type": "verb"
+  },
+  {
+    "word": "stare",
+    "translate": "to stay",
+    "type": "verb"
+  },
+  {
+    "word": "dovere",
+    "translate": "must",
+    "type": "verb"
+  },
+  {
+    "word": "vedere",
+    "translate": "to see",
+    "type": "verb"
+  },
+  {
+    "word": "andare",
+    "translate": "to go",
+    "type": "verb"
+  },
+  {
+    "word": "venire",
+    "translate": "to come",
+    "type": "verb"
+  },
+  {
+    "word": "dare",
+    "translate": "to give",
+    "type": "verb"
+  },
+  {
+    "word": "parlare",
+    "translate": "to speak",
+    "type": "verb"
+  },
+  {
+    "word": "trovare",
+    "translate": "to find",
+    "type": "verb"
+  },
+  {
+    "word": "sentire",
+    "translate": "to feel}, to hear",
+    "type": "verb"
+  },
+  {
+    "word": "lasciare",
+    "translate": "to leave",
+    "type": "verb"
+  },
+  {
+    "word": "prendere",
+    "translate": "to take",
+    "type": "verb"
+  },
+  {
+    "word": "guardare",
+    "translate": "to look",
+    "type": "verb"
+  },
+  {
+    "word": "mettere",
+    "translate": "to put",
+    "type": "verb"
+  },
+  {
+    "word": "pensare",
+    "translate": "to think",
+    "type": "verb"
+  },
+  {
+    "word": "passare",
+    "translate": "to pass",
+    "type": "verb"
+  },
+  {
+    "word": "credere",
+    "translate": "to believe",
+    "type": "verb"
+  },
+  {
+    "word": "portare",
+    "translate": "to bring",
+    "type": "verb"
+  },
+  {
+    "word": "parere",
+    "translate": "to seem",
+    "type": "verb"
+  },
+  {
+    "word": "tornare",
+    "translate": "to return",
+    "type": "verb"
+  },
+  {
+    "word": "sembrare",
+    "translate": "to seem}, to look like",
+    "type": "verb"
+  },
+  {
+    "word": "tenere",
+    "translate": "to keep",
+    "type": "verb"
+  },
+  {
+    "word": "capire",
+    "translate": "to understand",
+    "type": "verb"
+  },
+  {
+    "word": "morire",
+    "translate": "to die",
+    "type": "verb"
+  },
+  {
+    "word": "chiamare",
+    "translate": "to call",
+    "type": "verb"
+  },
+  {
+    "word": "conoscere",
+    "translate": "to know",
+    "type": "verb"
+  },
+  {
+    "word": "rimanere",
+    "translate": "to stay",
+    "type": "verb"
+  },
+  {
+    "word": "chiedere",
+    "translate": "to ask",
+    "type": "verb"
+  },
+  {
+    "word": "cercare",
+    "translate": "to search for",
+    "type": "verb"
+  },
+  {
+    "word": "entrare",
+    "translate": "to come in",
+    "type": "verb"
+  },
+  {
+    "word": "vivere",
+    "translate": "to live",
+    "type": "verb"
+  },
+  {
+    "word": "aprire",
+    "translate": "to open",
+    "type": "verb"
+  },
+  {
+    "word": "uscire",
+    "translate": "to go out",
+    "type": "verb"
+  },
+  {
+    "word": "ricordare",
+    "translate": "to remember",
+    "type": "verb"
+  },
+  {
+    "word": "bisognare",
+    "translate": "need",
+    "type": "verb"
+  },
+  {
+    "word": "cominciare",
+    "translate": "to begin",
+    "type": "verb"
+  },
+  {
+    "word": "rispondere",
+    "translate": "to answer}, to reply",
+    "type": "verb"
+  },
+  {
+    "word": "aspettare",
+    "translate": "to wait",
+    "type": "verb"
+  },
+  {
+    "word": "riuscire",
+    "translate": "to succeed",
+    "type": "verb"
+  },
+  {
+    "word": "chiudere",
+    "translate": "to close",
+    "type": "verb"
+  },
+  {
+    "word": "finire",
+    "translate": "to finish",
+    "type": "verb"
+  },
+  {
+    "word": "arrivare",
+    "translate": "to arrive",
+    "type": "verb"
+  },
+  {
+    "word": "scrivere",
+    "translate": "to write",
+    "type": "verb"
+  },
+  {
+    "word": "diventare",
+    "translate": "to become",
+    "type": "verb"
+  },
+  {
+    "word": "restare",
+    "translate": "to remain",
+    "type": "verb"
+  },
+  {
+    "word": "seguire",
+    "translate": "to follow",
+    "type": "verb"
+  },
+  {
+    "word": "bastare",
+    "translate": "to suffice",
+    "type": "verb"
+  },
+  {
+    "word": "perdere",
+    "translate": "to lose",
+    "type": "verb"
+  },
+  {
+    "word": "rendere",
+    "translate": "to make (big}, small..)",
+    "type": "verb"
+  },
+  {
+    "word": "correre",
+    "translate": "to run",
+    "type": "verb"
+  },
+  {
+    "word": "salvare",
+    "translate": "to save",
+    "type": "verb"
+  },
+  {
+    "word": "vestire",
+    "translate": "to dress",
+    "type": "verb"
+  },
+  {
+    "word": "costruire",
+    "translate": "to build",
+    "type": "verb"
+  },
+  {
+    "word": "camminare",
+    "translate": "to walk",
+    "type": "verb"
+  },
+  {
+    "word": "ritrovare",
+    "translate": "to find again",
+    "type": "verb"
+  },
+  {
+    "word": "durare",
+    "translate": "to last",
+    "type": "verb"
+  },
+  {
+    "word": "accendere",
+    "translate": "to turn on",
+    "type": "verb"
+  },
+  {
+    "word": "evitare",
+    "translate": "to avoid",
+    "type": "verb"
+  },
+  {
+    "word": "immaginare",
+    "translate": "to imagine",
+    "type": "verb"
+  },
+  {
+    "word": "ridurre",
+    "translate": "to reduce",
+    "type": "verb"
+  },
+  {
+    "word": "contenere",
+    "translate": "to contain",
+    "type": "verb"
+  },
+  {
+    "word": "fissare",
+    "translate": "to fix",
+    "type": "verb"
+  },
+  {
+    "word": "costringere",
+    "translate": "to force",
+    "type": "verb"
+  },
+  {
+    "word": "abbandonare",
+    "translate": "to abandon",
+    "type": "verb"
+  },
+  {
+    "word": "attendere",
+    "translate": "to wait for",
+    "type": "verb"
+  },
+  {
+    "word": "preferire",
+    "translate": "to prefer",
+    "type": "verb"
+  },
+  {
+    "word": "scegliere",
+    "translate": "to choose",
+    "type": "verb"
+  },
+  {
+    "word": "avvertire",
+    "translate": "to warn",
+    "type": "verb"
+  },
+  {
+    "word": "proporre",
+    "translate": "to propose",
+    "type": "verb"
+  },
+  {
+    "word": "temere",
+    "translate": "to fear",
+    "type": "verb"
+  },
+  {
+    "word": "esprimere",
+    "translate": "to express",
+    "type": "verb"
+  },
+  {
+    "word": "spingere",
+    "translate": "to push",
+    "type": "verb"
+  },
+  {
+    "word": "salutare",
+    "translate": "to greet",
+    "type": "verb"
+  },
+  {
+    "word": "udire",
+    "translate": "to hear",
+    "type": "verb"
+  },
+  {
+    "word": "difendere",
+    "translate": "to stick up for",
+    "type": "verb"
+  },
+  {
+    "word": "dirigere",
+    "translate": "to direct",
+    "type": "verb"
+  },
+  {
+    "word": "cantare",
+    "translate": "to sing",
+    "type": "verb"
+  },
+  {
+    "word": "sorgere",
+    "translate": "to rise",
+    "type": "verb"
+  },
+  {
+    "word": "assicurare",
+    "translate": "to ensure",
+    "type": "verb"
+  },
+  {
+    "word": "assumere",
+    "translate": "to hire",
+    "type": "verb"
+  },
+  {
+    "word": "tendere",
+    "translate": "to tend",
+    "type": "verb"
+  },
+  {
+    "word": "dividere",
+    "translate": "to divide",
+    "type": "verb"
+  },
+  {
+    "word": "scusare",
+    "translate": "to excuse",
+    "type": "verb"
+  },
+  {
+    "word": "mantenere",
+    "translate": "to maintain",
+    "type": "verb"
+  },
+  {
+    "word": "ritenere",
+    "translate": "to consider",
+    "type": "verb"
+  },
+  {
+    "word": "concludere",
+    "translate": "to conclude",
+    "type": "verb"
+  },
+  {
+    "word": "saltare",
+    "translate": "to jump",
+    "type": "verb"
+  },
+  {
+    "word": "stabilire",
+    "translate": "to establish",
+    "type": "verb"
+  },
+  {
+    "word": "appartenere",
+    "translate": "to belong",
+    "type": "verb"
+  },
+  {
+    "word": "possedere",
+    "translate": "to possess",
+    "type": "verb"
+  },
+  {
+    "word": "risultare",
+    "translate": "to result",
+    "type": "verb"
+  },
+  {
+    "word": "suonare",
+    "translate": "to play",
+    "type": "verb"
+  },
+  {
+    "word": "coprire",
+    "translate": "to cover up",
+    "type": "verb"
+  },
+  {
+    "word": "insegnare",
+    "translate": "to teach",
+    "type": "verb"
+  },
+  {
+    "word": "affermare",
+    "translate": "to assert",
+    "type": "verb"
+  },
+  {
+    "word": "rivelare",
+    "translate": "to reveal",
+    "type": "verb"
+  },
+  {
+    "word": "conservare",
+    "translate": "to preserve",
+    "type": "verb"
+  },
+  {
+    "word": "risolvere",
+    "translate": "to solve",
+    "type": "verb"
+  },
+  {
+    "word": "concedere",
+    "translate": "to grant",
+    "type": "verb"
+  },
+  {
+    "word": "limitare",
+    "translate": "to limit",
+    "type": "verb"
+  },
+  {
+    "word": "abitare",
+    "translate": "to live",
+    "type": "verb"
+  },
+  {
+    "word": "convincere",
+    "translate": "to convince",
+    "type": "verb"
+  },
+  {
+    "word": "comprare",
+    "translate": "to buy",
+    "type": "verb"
+  },
+  {
+    "word": "legare",
+    "translate": "to tie",
+    "type": "verb"
+  },
+  {
+    "word": "sostenere",
+    "translate": "to sustain",
+    "type": "verb"
+  },
+  {
+    "word": "nascere",
+    "translate": "to be born",
+    "type": "verb"
+  },
+  {
+    "word": "presentare",
+    "translate": "to introduce",
+    "type": "verb"
+  },
+  {
+    "word": "trattare",
+    "translate": "to deal",
+    "type": "verb"
+  },
+  {
+    "word": "piacere",
+    "translate": "to like",
+    "type": "verb"
+  },
+  {
+    "word": "continuare",
+    "translate": "to continue",
+    "type": "verb"
+  },
+  {
+    "word": "partire",
+    "translate": "to leave",
+    "type": "verb"
+  },
+  {
+    "word": "servire",
+    "translate": "to serve",
+    "type": "verb"
+  },
+  {
+    "word": "giungere",
+    "translate": "to reach",
+    "type": "verb"
+  },
+  {
+    "word": "fermare",
+    "translate": "to stop",
+    "type": "verb"
+  },
+  {
+    "word": "apparire",
+    "translate": "to appear",
+    "type": "verb"
+  },
+  {
+    "word": "amare",
+    "translate": "to love",
+    "type": "verb"
+  },
+  {
+    "word": "esistere",
+    "translate": "to exist",
+    "type": "verb"
+  },
+  {
+    "word": "intendere",
+    "translate": "to hear",
+    "type": "verb"
+  },
+  {
+    "word": "salire",
+    "translate": "to go up",
+    "type": "verb"
+  },
+  {
+    "word": "mancare",
+    "translate": "to miss",
+    "type": "verb"
+  },
+  {
+    "word": "ridere",
+    "translate": "to laugh",
+    "type": "verb"
+  },
+  {
+    "word": "muovere",
+    "translate": "to move",
+    "type": "verb"
+  },
+  {
+    "word": "stringere",
+    "translate": "to tighten",
+    "type": "verb"
+  },
+  {
+    "word": "mandare",
+    "translate": "to send",
+    "type": "verb"
+  },
+  {
+    "word": "domandare",
+    "translate": "to ask",
+    "type": "verb"
+  },
+  {
+    "word": "ascoltare",
+    "translate": "to listen",
+    "type": "verb"
+  },
+  {
+    "word": "decidere",
+    "translate": "to decide",
+    "type": "verb"
+  },
+  {
+    "word": "ricevere",
+    "translate": "to receive",
+    "type": "verb"
+  },
+  {
+    "word": "osservare",
+    "translate": "to observe",
+    "type": "verb"
+  },
+  {
+    "word": "permettere",
+    "translate": "to allow",
+    "type": "verb"
+  },
+  {
+    "word": "avvenire",
+    "translate": "to occur",
+    "type": "verb"
+  },
+  {
+    "word": "spiegare",
+    "translate": "to explain",
+    "type": "verb"
+  },
+  {
+    "word": "lavorare",
+    "translate": "to work",
+    "type": "verb"
+  },
+  {
+    "word": "alzare",
+    "translate": "to raise up",
+    "type": "verb"
+  },
+  {
+    "word": "riconoscere",
+    "translate": "to recognize",
+    "type": "verb"
+  },
+  {
+    "word": "sedere",
+    "translate": "to sit down",
+    "type": "verb"
+  },
+  {
+    "word": "leggere",
+    "translate": "to read",
+    "type": "verb"
+  },
+  {
+    "word": "cadere",
+    "translate": "to fall",
+    "type": "verb"
+  },
+  {
+    "word": "mangiare",
+    "translate": "to eat",
+    "type": "verb"
+  },
+  {
+    "word": "dormire",
+    "translate": "to sleep",
+    "type": "verb"
+  },
+  {
+    "word": "raggiungere",
+    "translate": "to reach",
+    "type": "verb"
+  },
+  {
+    "word": "comprendere",
+    "translate": "to understand",
+    "type": "verb"
+  },
+  {
+    "word": "scendere",
+    "translate": "to alight",
+    "type": "verb"
+  },
+  {
+    "word": "compiere",
+    "translate": "to fulfill",
+    "type": "verb"
+  },
+  {
+    "word": "toccare",
+    "translate": "to touch",
+    "type": "verb"
+  },
+  {
+    "word": "considerare",
+    "translate": "to consider",
+    "type": "verb"
+  },
+  {
+    "word": "raccogliere",
+    "translate": "to collect",
+    "type": "verb"
+  },
+  {
+    "word": "ottenere",
+    "translate": "to obtain",
+    "type": "verb"
+  },
+  {
+    "word": "offrire",
+    "translate": "to offer",
+    "type": "verb"
+  },
+  {
+    "word": "mostrare",
+    "translate": "to exhibit",
+    "type": "verb"
+  },
+  {
+    "word": "accompagnare",
+    "translate": "to accompany",
+    "type": "verb"
+  },
+  {
+    "word": "dimenticare",
+    "translate": "to forget",
+    "type": "verb"
+  },
+  {
+    "word": "pregare",
+    "translate": "to pray",
+    "type": "verb"
+  },
+  {
+    "word": "raccontare",
+    "translate": "to tell",
+    "type": "verb"
+  },
+  {
+    "word": "bere",
+    "translate": "to drinking",
+    "type": "verb"
+  },
+  {
+    "word": "ritornare",
+    "translate": "to return",
+    "type": "verb"
+  },
+  {
+    "word": "cambiare",
+    "translate": "to change",
+    "type": "verb"
+  },
+  {
+    "word": "dimostrare",
+    "translate": "to demonstrate",
+    "type": "verb"
+  },
+  {
+    "word": "sperare",
+    "translate": "to hope",
+    "type": "verb"
+  },
+  {
+    "word": "sposare",
+    "translate": "to marry",
+    "type": "verb"
+  },
+  {
+    "word": "ammettere",
+    "translate": "to admit",
+    "type": "verb"
+  },
+  {
+    "word": "fuggire",
+    "translate": "to run away",
+    "type": "verb"
+  },
+  {
+    "word": "liberare",
+    "translate": "to free",
+    "type": "verb"
+  },
+  {
+    "word": "riferire",
+    "translate": "to report",
+    "type": "verb"
+  },
+  {
+    "word": "svegliare",
+    "translate": "to wake up",
+    "type": "verb"
+  },
+  {
+    "word": "capitare",
+    "translate": "to happen",
+    "type": "verb"
+  },
+  {
+    "word": "posare",
+    "translate": "to place",
+    "type": "verb"
+  },
+  {
+    "word": "impedire",
+    "translate": "to prevent",
+    "type": "verb"
+  },
+  {
+    "word": "gettare",
+    "translate": "to throw",
+    "type": "verb"
+  },
+  {
+    "word": "vendere",
+    "translate": "to sell",
+    "type": "verb"
+  },
+  {
+    "word": "distinguere",
+    "translate": "to distinguish",
+    "type": "verb"
+  },
+  {
+    "word": "offendere",
+    "translate": "to offend",
+    "type": "verb"
+  },
+  {
+    "word": "rimettere",
+    "translate": "to return",
+    "type": "verb"
+  },
+  {
+    "word": "rompere",
+    "translate": "to break",
+    "type": "verb"
+  },
+  {
+    "word": "godere",
+    "translate": "to enjoy",
+    "type": "verb"
+  },
+  {
+    "word": "imporre",
+    "translate": "to impose",
+    "type": "verb"
+  },
+  {
+    "word": "significare",
+    "translate": "to mean",
+    "type": "verb"
+  },
+  {
+    "word": "desiderare",
+    "translate": "to desire",
+    "type": "verb"
+  },
+  {
+    "word": "divertire",
+    "translate": "to amuse",
+    "type": "verb"
+  },
+  {
+    "word": "volgere",
+    "translate": "to turn",
+    "type": "verb"
+  },
+  {
+    "word": "giudicare",
+    "translate": "to judge",
+    "type": "verb"
+  },
+  {
+    "word": "produrre",
+    "translate": "to produce",
+    "type": "verb"
+  },
+  {
+    "word": "avvicinare",
+    "translate": "to approach",
+    "type": "verb"
+  },
+  {
+    "word": "diffondere",
+    "translate": "to spread",
+    "type": "verb"
+  },
+  {
+    "word": "ordinare",
+    "translate": "to sort",
+    "type": "verb"
+  },
+  {
+    "word": "invitare",
+    "translate": "to invite",
+    "type": "verb"
+  },
+  {
+    "word": "discutere",
+    "translate": "to discuss",
+    "type": "verb"
+  },
+  {
+    "word": "sbagliare",
+    "translate": "to make a mistake",
+    "type": "verb"
+  },
+  {
+    "word": "badare",
+    "translate": "to look after",
+    "type": "verb"
+  },
+  {
+    "word": "tagliare",
+    "translate": "to cut",
+    "type": "verb"
+  },
+  {
+    "word": "pubblicare",
+    "translate": "to publish",
+    "type": "verb"
+  },
+  {
+    "word": "attaccare",
+    "translate": "to attack",
+    "type": "verb"
+  },
+  {
+    "word": "imparare",
+    "translate": "to learn",
+    "type": "verb"
+  },
+  {
+    "word": "prevedere",
+    "translate": "to forecast",
+    "type": "verb"
+  },
+  {
+    "word": "scappare",
+    "translate": "to run away",
+    "type": "verb"
+  },
+  {
+    "word": "spegnere",
+    "translate": "to switch off",
+    "type": "verb"
+  },
+  {
+    "word": "annunciare",
+    "translate": "to announce",
+    "type": "verb"
+  },
+  {
+    "word": "baciare",
+    "translate": "to kiss",
+    "type": "verb"
+  },
+  {
+    "word": "esporre",
+    "translate": "to expose",
+    "type": "verb"
+  },
+  {
+    "word": "attraversare",
+    "translate": "go across",
+    "type": "verb"
+  },
+  {
+    "word": "fornire",
+    "translate": "to provide",
+    "type": "verb"
+  },
+  {
+    "word": "segnare",
+    "translate": "to mark",
+    "type": "verb"
+  },
+  {
+    "word": "superare",
+    "translate": "to overcome",
+    "type": "verb"
+  },
+  {
+    "word": "rivedere",
+    "translate": "to review",
+    "type": "verb"
+  },
+  {
+    "word": "allontanare",
+    "translate": "to remove",
+    "type": "verb"
+  },
+  {
+    "word": "ammazzare",
+    "translate": "to kill",
+    "type": "verb"
+  },
+  {
+    "word": "accogliere",
+    "translate": "to receive",
+    "type": "verb"
+  },
+  {
+    "word": "voltare",
+    "translate": "to turn",
+    "type": "verb"
+  },
+  {
+    "word": "preoccupare",
+    "translate": "to worry",
+    "type": "verb"
+  },
+  {
+    "word": "provocare",
+    "translate": "to cause",
+    "type": "verb"
+  },
+  {
+    "word": "riempire",
+    "translate": "to fill",
+    "type": "verb"
+  },
+  {
+    "word": "partecipare",
+    "translate": "to take part",
+    "type": "verb"
+  },
+  {
+    "word": "piantare",
+    "translate": "to plant",
+    "type": "verb"
+  },
+  {
+    "word": "rientrare",
+    "translate": "to re-enter",
+    "type": "verb"
+  },
+  {
+    "word": "richiedere",
+    "translate": "to request",
+    "type": "verb"
+  },
+  {
+    "word": "nascondere",
+    "translate": "to hide",
+    "type": "verb"
+  },
+  {
+    "word": "ripetere",
+    "translate": "to repeat",
+    "type": "verb"
+  },
+  {
+    "word": "scoprire",
+    "translate": "to discover",
+    "type": "verb"
+  },
+  {
+    "word": "preparare",
+    "translate": "prepare",
+    "type": "verb"
+  },
+  {
+    "word": "scorrere",
+    "translate": "to slide",
+    "type": "verb"
+  },
+  {
+    "word": "rappresentare",
+    "translate": "to represent",
+    "type": "verb"
+  },
+  {
+    "word": "riprendere",
+    "translate": "to resume",
+    "type": "verb"
+  },
+  {
+    "word": "costituire",
+    "translate": "to constitute",
+    "type": "verb"
+  },
+  {
+    "word": "incontrare",
+    "translate": "to meet",
+    "type": "verb"
+  },
+  {
+    "word": "valere",
+    "translate": "be worth",
+    "type": "verb"
+  },
+  {
+    "word": "accorgersi",
+    "translate": "to notice",
+    "type": "verb"
+  },
+  {
+    "word": "provare",
+    "translate": "to try",
+    "type": "verb"
+  },
+  {
+    "word": "formare",
+    "translate": "to form",
+    "type": "verb"
+  },
+  {
+    "word": "uccidere",
+    "translate": "to kill",
+    "type": "verb"
+  },
+  {
+    "word": "tirare",
+    "translate": "to pull",
+    "type": "verb"
+  },
+  {
+    "word": "togliere",
+    "translate": "to remove",
+    "type": "verb"
+  },
+  {
+    "word": "notare",
+    "translate": "to notice",
+    "type": "verb"
+  },
+  {
+    "word": "aggiungere",
+    "translate": "to add",
+    "type": "verb"
+  },
+  {
+    "word": "succedere",
+    "translate": "to happen",
+    "type": "verb"
+  },
+  {
+    "word": "pagare",
+    "translate": "to pay",
+    "type": "verb"
+  },
+  {
+    "word": "tentare",
+    "translate": "to attempt",
+    "type": "verb"
+  },
+  {
+    "word": "accadere",
+    "translate": "to happen",
+    "type": "verb"
+  },
+  {
+    "word": "creare",
+    "translate": "to create",
+    "type": "verb"
+  },
+  {
+    "word": "importare",
+    "translate": "to import",
+    "type": "verb"
+  },
+  {
+    "word": "pesare",
+    "translate": "to weigh",
+    "type": "verb"
+  },
+  {
+    "word": "usare",
+    "translate": "to use",
+    "type": "verb"
+  },
+  {
+    "word": "accettare",
+    "translate": "to accept",
+    "type": "verb"
+  },
+  {
+    "word": "indicare",
+    "translate": "to indicate",
+    "type": "verb"
+  },
+  {
+    "word": "buttare",
+    "translate": "to throw",
+    "type": "verb"
+  },
+  {
+    "word": "battere",
+    "translate": "to beat",
+    "type": "verb"
+  },
+  {
+    "word": "interessare",
+    "translate": "to interest",
+    "type": "verb"
+  },
+  {
+    "word": "sorridere",
+    "translate": "to smile",
+    "type": "verb"
+  },
+  {
+    "word": "condurre",
+    "translate": "to conduct",
+    "type": "verb"
+  },
+  {
+    "word": "disporre",
+    "translate": "to have",
+    "type": "verb"
+  },
+  {
+    "word": "unire",
+    "translate": "to merge",
+    "type": "verb"
+  },
+  {
+    "word": "aiutare",
+    "translate": "to help",
+    "type": "verb"
+  },
+  {
+    "word": "piangere",
+    "translate": "to cry",
+    "type": "verb"
+  },
+  {
+    "word": "girare",
+    "translate": "to turn",
+    "type": "verb"
+  },
+  {
+    "word": "levare",
+    "translate": "to lift",
+    "type": "verb"
+  },
+  {
+    "word": "soffrire",
+    "translate": "to suffer",
+    "type": "verb"
+  },
+  {
+    "word": "recare",
+    "translate": "to cause",
+    "type": "verb"
+  },
+  {
+    "word": "riguardare",
+    "translate": "to concern",
+    "type": "verb"
+  },
+  {
+    "word": "rivolgere",
+    "translate": "to turn",
+    "type": "verb"
+  },
+  {
+    "word": "tacere",
+    "translate": "to be silent",
+    "type": "verb"
+  },
+  {
+    "word": "occorrere",
+    "translate": "to take",
+    "type": "verb"
+  },
+  {
+    "word": "porre",
+    "translate": "to place",
+    "type": "verb"
+  },
+  {
+    "word": "vincere",
+    "translate": "to win",
+    "type": "verb"
+  },
+  {
+    "word": "svolgere",
+    "translate": "to perform",
+    "type": "verb"
+  },
+  {
+    "word": "studiare",
+    "translate": "to study",
+    "type": "verb"
+  },
+  {
+    "word": "crescere",
+    "translate": "to grow up",
+    "type": "verb"
+  },
+  {
+    "word": "divenire",
+    "translate": "to become",
+    "type": "verb"
+  },
+  {
+    "word": "gridare",
+    "translate": "to shout",
+    "type": "verb"
+  },
+  {
+    "word": "dichiarare",
+    "translate": "to declare",
+    "type": "verb"
+  },
+  {
+    "word": "contare",
+    "translate": "to count",
+    "type": "verb"
+  },
+  {
+    "word": "giocare",
+    "translate": "to play",
+    "type": "verb"
+  },
+  {
+    "word": "assistere",
+    "translate": "to assist",
+    "type": "verb"
+  },
+  {
+    "word": "aumentare",
+    "translate": "to increase",
+    "type": "verb"
+  },
+  {
+    "word": "lanciare",
+    "translate": "to launch",
+    "type": "verb"
+  },
+  {
+    "word": "determinare",
+    "translate": "to determine",
+    "type": "verb"
+  },
+  {
+    "word": "scherzare",
+    "translate": "to joke",
+    "type": "verb"
+  },
+  {
+    "word": "distruggere",
+    "translate": "to destroy",
+    "type": "verb"
+  },
+  {
+    "word": "meritare",
+    "translate": "to deserve",
+    "type": "verb"
+  },
+  {
+    "word": "dedicare",
+    "translate": "to devote",
+    "type": "verb"
+  },
+  {
+    "word": "iniziare",
+    "translate": "to start",
+    "type": "verb"
+  },
+  {
+    "word": "sorprendere",
+    "translate": "to surprise",
+    "type": "verb"
+  },
+  {
+    "word": "trasformare",
+    "translate": "to commute",
+    "type": "verb"
+  },
+  {
+    "word": "confessare",
+    "translate": "to confess",
+    "type": "verb"
+  },
+  {
+    "word": "arrestare",
+    "translate": "to stop",
+    "type": "verb"
+  },
+  {
+    "word": "ringraziare",
+    "translate": "to thank",
+    "type": "verb"
+  },
+  {
+    "word": "riunire",
+    "translate": "to gather",
+    "type": "verb"
+  },
+  {
+    "word": "volare",
+    "translate": "to fly",
+    "type": "verb"
+  },
+  {
+    "word": "fondare",
+    "translate": "to found",
+    "type": "verb"
+  },
+  {
+    "word": "guidare",
+    "translate": "to drive",
+    "type": "verb"
+  },
+  {
+    "word": "ferire",
+    "translate": "to hurt",
+    "type": "verb"
+  },
+  {
+    "word": "opporre",
+    "translate": "to oppose",
+    "type": "verb"
+  },
+  {
+    "word": "procedere",
+    "translate": "to proceed",
+    "type": "verb"
+  },
+  {
+    "word": "smettere",
+    "translate": "to stop",
+    "type": "verb"
+  },
+  {
+    "word": "consentire",
+    "translate": "to allow",
+    "type": "verb"
+  },
+  {
+    "word": "innamorarsi",
+    "translate": "to fall in love",
+    "type": "verb"
+  },
+  {
+    "word": "organizzare",
+    "translate": "to organize",
+    "type": "verb"
+  },
+  {
+    "word": "rifiutare",
+    "translate": "to reject",
+    "type": "verb"
+  },
+  {
+    "word": "elevare",
+    "translate": "to raise",
+    "type": "verb"
+  },
+  {
+    "word": "promettere",
+    "translate": "to promise",
+    "type": "verb"
+  },
+  {
+    "word": "scomparire",
+    "translate": "to disappear",
+    "type": "verb"
+  },
+  {
+    "word": "trarre",
+    "translate": "to draw",
+    "type": "verb"
+  },
+  {
+    "word": "riportare",
+    "translate": "to report",
+    "type": "verb"
+  },
+  {
+    "word": "dipendere",
+    "translate": "to depend",
+    "type": "verb"
+  },
+  {
+    "word": "provvedere",
+    "translate": "to provide",
+    "type": "verb"
+  },
+  {
+    "word": "trascinare",
+    "translate": "to drag",
+    "type": "verb"
+  },
+  {
+    "word": "fumare",
+    "translate": "to smoke",
+    "type": "verb"
+  },
+  {
+    "word": "scoppiare",
+    "translate": "to burst",
+    "type": "verb"
+  },
+  {
+    "word": "sognare",
+    "translate": "to dream",
+    "type": "verb"
+  },
+  {
+    "word": "appoggiare",
+    "translate": "to support",
+    "type": "verb"
+  },
+  {
+    "word": "armare",
+    "translate": "to arm",
+    "type": "verb"
+  },
+  {
+    "word": "celebrare",
+    "translate": "to celebrate",
+    "type": "verb"
+  },
+  {
+    "word": "descrivere",
+    "translate": "to describe",
+    "type": "verb"
+  },
+  {
+    "word": "resistere",
+    "translate": "to resist",
+    "type": "verb"
+  },
+  {
+    "word": "bruciare",
+    "translate": "to burn",
+    "type": "verb"
+  },
+  {
+    "word": "colpire",
+    "translate": "to hit",
+    "type": "verb"
+  },
+  {
+    "word": "estendere",
+    "translate": "to extend",
+    "type": "verb"
+  },
+  {
+    "word": "staccare",
+    "translate": "to remove",
+    "type": "verb"
+  },
+  {
+    "word": "affrontare",
+    "translate": "to face up to",
+    "type": "verb"
+  },
+  {
+    "word": "avanzare",
+    "translate": "to push forward",
+    "type": "verb"
+  },
+  {
+    "word": "comporre",
+    "translate": "to compose",
+    "type": "verb"
+  },
+  {
+    "word": "escludere",
+    "translate": "to exclude",
+    "type": "verb"
+  },
+  {
+    "word": "figurare",
+    "translate": "to appear",
+    "type": "verb"
+  },
+  {
+    "word": "insistere",
+    "translate": "to insist",
+    "type": "verb"
+  },
+  {
+    "word": "cosa",
+    "translation": "thing",
+    "type": "noun"
+  },
+  {
+    "word": "anno",
+    "translation": "year",
+    "type": "noun"
+  },
+  {
+    "word": "uomo",
+    "translation": "man",
+    "type": "noun"
+  },
+  {
+    "word": "giorno",
+    "translation": "day",
+    "type": "noun"
+  },
+  {
+    "word": "volta",
+    "translation": "time",
+    "type": "noun"
+  },
+  {
+    "word": "casa",
+    "translation": "home",
+    "type": "noun"
+  },
+  {
+    "word": "parte",
+    "translation": "part",
+    "type": "noun"
+  },
+  {
+    "word": "vita",
+    "translation": "life",
+    "type": "noun"
+  },
+  {
+    "word": "tempo",
+    "translation": "time",
+    "type": "noun"
+  },
+  {
+    "word": "donna",
+    "translation": "woman",
+    "type": "noun"
+  },
+  {
+    "word": "mano",
+    "translation": "hand",
+    "type": "noun"
+  },
+  {
+    "word": "occhio",
+    "translation": "eye",
+    "type": "noun"
+  },
+  {
+    "word": "ora",
+    "translation": "now",
+    "type": "noun"
+  },
+  {
+    "word": "signore",
+    "translation": "Mr.",
+    "type": "noun"
+  },
+  {
+    "word": "paese",
+    "translation": "country, town",
+    "type": "noun"
+  },
+  {
+    "word": "momento",
+    "translation": "moment",
+    "type": "noun"
+  },
+  {
+    "word": "modo",
+    "translation": "way",
+    "type": "noun"
+  },
+  {
+    "word": "mondo",
+    "translation": "world",
+    "type": "noun"
+  },
+  {
+    "word": "parola",
+    "translation": "word",
+    "type": "noun"
+  },
+  {
+    "word": "padre",
+    "translation": "father",
+    "type": "noun"
+  },
+  {
+    "word": "punto",
+    "translation": "point",
+    "type": "noun"
+  },
+  {
+    "word": "lavoro",
+    "translation": "work",
+    "type": "noun"
+  },
+  {
+    "word": "stato",
+    "translation": "state",
+    "type": "noun"
+  },
+  {
+    "word": "caso",
+    "translation": "case",
+    "type": "noun"
+  },
+  {
+    "word": "città",
+    "translation": "city",
+    "type": "noun"
+  },
+  {
+    "word": "guerra",
+    "translation": "war",
+    "type": "noun"
+  },
+  {
+    "word": "strada",
+    "translation": "street",
+    "type": "noun"
+  },
+  {
+    "word": "figlio",
+    "translation": "son",
+    "type": "noun"
+  },
+  {
+    "word": "notte",
+    "translation": "night",
+    "type": "noun"
+  },
+  {
+    "word": "voce",
+    "translation": "voice",
+    "type": "noun"
+  },
+  {
+    "word": "nome",
+    "translation": "name",
+    "type": "noun"
+  },
+  {
+    "word": "sera",
+    "translation": "evening",
+    "type": "noun"
+  },
+  {
+    "word": "acqua",
+    "translation": "water",
+    "type": "noun"
+  },
+  {
+    "word": "amico",
+    "translation": "friend",
+    "type": "noun"
+  },
+  {
+    "word": "fatto",
+    "translation": "done",
+    "type": "noun"
+  },
+  {
+    "word": "gente",
+    "translation": "people",
+    "type": "noun"
+  },
+  {
+    "word": "amore",
+    "translation": "love",
+    "type": "noun"
+  },
+  {
+    "word": "storia",
+    "translation": "history",
+    "type": "noun"
+  },
+  {
+    "word": "aria",
+    "translation": "air",
+    "type": "noun"
+  },
+  {
+    "word": "forza",
+    "translation": "power",
+    "type": "noun"
+  },
+  {
+    "word": "testa",
+    "translation": "head",
+    "type": "noun"
+  },
+  {
+    "word": "ragione",
+    "translation": "reason",
+    "type": "noun"
+  },
+  {
+    "word": "mare",
+    "translation": "sea",
+    "type": "noun"
+  },
+  {
+    "word": "mese",
+    "translation": "month",
+    "type": "noun"
+  },
+  {
+    "word": "capo",
+    "translation": "head",
+    "type": "noun"
+  },
+  {
+    "word": "luce",
+    "translation": "light",
+    "type": "noun"
+  },
+  {
+    "word": "sole",
+    "translation": "Sun",
+    "type": "noun"
+  },
+  {
+    "word": "famiglia",
+    "translation": "family",
+    "type": "noun"
+  },
+  {
+    "word": "piede",
+    "translation": "foot",
+    "type": "noun"
+  },
+  {
+    "word": "persona",
+    "translation": "person",
+    "type": "noun"
+  },
+  {
+    "word": "via",
+    "translation": "street",
+    "type": "noun"
+  },
+  {
+    "word": "signora",
+    "translation": "Mrs",
+    "type": "noun"
+  },
+  {
+    "word": "governo",
+    "translation": "government",
+    "type": "noun"
+  },
+  {
+    "word": "senso",
+    "translation": "sense",
+    "type": "noun"
+  },
+  {
+    "word": "opera",
+    "translation": "Opera",
+    "type": "noun"
+  },
+  {
+    "word": "prodotto",
+    "translation": "product",
+    "type": "noun"
+  },
+  {
+    "word": "festa",
+    "translation": "party",
+    "type": "noun"
+  },
+  {
+    "word": "gioco",
+    "translation": "game",
+    "type": "noun"
+  },
+  {
+    "word": "prova",
+    "translation": "test",
+    "type": "noun"
+  },
+  {
+    "word": "campagna",
+    "translation": "countryside",
+    "type": "noun"
+  },
+  {
+    "word": "fiore",
+    "translation": "flower",
+    "type": "noun"
+  },
+  {
+    "word": "sala",
+    "translation": "room, hall",
+    "type": "noun"
+  },
+  {
+    "word": "misura",
+    "translation": "measure",
+    "type": "noun"
+  },
+  {
+    "word": "posizione",
+    "translation": "position",
+    "type": "noun"
+  },
+  {
+    "word": "natura",
+    "translation": "nature",
+    "type": "noun"
+  },
+  {
+    "word": "ufficio",
+    "translation": "office",
+    "type": "noun"
+  },
+  {
+    "word": "specie",
+    "translation": "species",
+    "type": "noun"
+  },
+  {
+    "word": "successo",
+    "translation": "success",
+    "type": "noun"
+  },
+  {
+    "word": "zona",
+    "translation": "area",
+    "type": "noun"
+  },
+  {
+    "word": "fuoco",
+    "translation": "fire",
+    "type": "noun"
+  },
+  {
+    "word": "soldato",
+    "translation": "soldier",
+    "type": "noun"
+  },
+  {
+    "word": "vista",
+    "translation": "view",
+    "type": "noun"
+  },
+  {
+    "word": "libertà",
+    "translation": "freedom",
+    "type": "noun"
+  },
+  {
+    "word": "risultato",
+    "translation": "result",
+    "type": "noun"
+  },
+  {
+    "word": "importanza",
+    "translation": "importance",
+    "type": "noun"
+  },
+  {
+    "word": "dubbio",
+    "translation": "doubt",
+    "type": "noun"
+  },
+  {
+    "word": "ricerca",
+    "translation": "Research",
+    "type": "noun"
+  },
+  {
+    "word": "dio",
+    "translation": "God",
+    "type": "noun"
+  },
+  {
+    "word": "figura",
+    "translation": "figure",
+    "type": "noun"
+  },
+  {
+    "word": "piazza",
+    "translation": "square",
+    "type": "noun"
+  },
+  {
+    "word": "questione",
+    "translation": "question",
+    "type": "noun"
+  },
+  {
+    "word": "nemico",
+    "translation": "enemy",
+    "type": "noun"
+  },
+  {
+    "word": "pena",
+    "translation": "punishment",
+    "type": "noun"
+  },
+  {
+    "word": "motivo",
+    "translation": "reason",
+    "type": "noun"
+  },
+  {
+    "word": "esperienza",
+    "translation": "experience",
+    "type": "noun"
+  },
+  {
+    "word": "ricordo",
+    "translation": "memory",
+    "type": "noun"
+  },
+  {
+    "word": "albero",
+    "translation": "tree",
+    "type": "noun"
+  },
+  {
+    "word": "politica",
+    "translation": "policy",
+    "type": "noun"
+  },
+  {
+    "word": "processo",
+    "translation": "process",
+    "type": "noun"
+  },
+  {
+    "word": "vino",
+    "translation": "wine",
+    "type": "noun"
+  },
+  {
+    "word": "porta",
+    "translation": "door",
+    "type": "noun"
+  },
+  {
+    "word": "sud",
+    "translation": "south",
+    "type": "noun"
+  },
+  {
+    "word": "sogno",
+    "translation": "dream",
+    "type": "noun"
+  },
+  {
+    "word": "cane",
+    "translation": "dog",
+    "type": "noun"
+  },
+  {
+    "word": "isola",
+    "translation": "island",
+    "type": "noun"
+  },
+  {
+    "word": "movimento",
+    "translation": "movement",
+    "type": "noun"
+  },
+  {
+    "word": "mente",
+    "translation": "mind",
+    "type": "noun"
+  },
+  {
+    "word": "occasione",
+    "translation": "opportunity",
+    "type": "noun"
+  },
+  {
+    "word": "prezzo",
+    "translation": "price",
+    "type": "noun"
+  },
+  {
+    "word": "causa",
+    "translation": "cause",
+    "type": "noun"
+  },
+  {
+    "word": "periodo",
+    "translation": "period",
+    "type": "noun"
+  },
+  {
+    "word": "sviluppo",
+    "translation": "development",
+    "type": "noun"
+  },
+  {
+    "word": "sorella",
+    "translation": "sister",
+    "type": "noun"
+  },
+  {
+    "word": "effetto",
+    "translation": "effect",
+    "type": "noun"
+  },
+  {
+    "word": "giardino",
+    "translation": "garden",
+    "type": "noun"
+  },
+  {
+    "word": "attività",
+    "translation": "activities",
+    "type": "noun"
+  },
+  {
+    "word": "volontà",
+    "translation": "will",
+    "type": "noun"
+  },
+  {
+    "word": "volto",
+    "translation": "face",
+    "type": "noun"
+  },
+  {
+    "word": "base",
+    "translation": "basis",
+    "type": "noun"
+  },
+  {
+    "word": "carattere",
+    "translation": "character",
+    "type": "noun"
+  },
+  {
+    "word": "coscienza",
+    "translation": "consciousness",
+    "type": "noun"
+  },
+  {
+    "word": "guardia",
+    "translation": "guard",
+    "type": "noun"
+  },
+  {
+    "word": "memoria",
+    "translation": "memory",
+    "type": "noun"
+  },
+  {
+    "word": "terreno",
+    "translation": "ground",
+    "type": "noun"
+  },
+  {
+    "word": "animale",
+    "translation": "animal",
+    "type": "noun"
+  },
+  {
+    "word": "direzione",
+    "translation": "direction",
+    "type": "noun"
+  },
+  {
+    "word": "eccellenza",
+    "translation": "excellence",
+    "type": "noun"
+  },
+  {
+    "word": "malattia",
+    "translation": "disease",
+    "type": "noun"
+  },
+  {
+    "word": "scienza",
+    "translation": "science",
+    "type": "noun"
+  },
+  {
+    "word": "funzione",
+    "translation": "function",
+    "type": "noun"
+  },
+  {
+    "word": "conseguenza",
+    "translation": "result",
+    "type": "noun"
+  },
+  {
+    "word": "parete",
+    "translation": "wall",
+    "type": "noun"
+  },
+  {
+    "word": "dente",
+    "translation": "tooth",
+    "type": "noun"
+  },
+  {
+    "word": "distanza",
+    "translation": "distance",
+    "type": "noun"
+  },
+  {
+    "word": "gusto",
+    "translation": "taste",
+    "type": "noun"
+  },
+  {
+    "word": "impressione",
+    "translation": "impression",
+    "type": "noun"
+  },
+  {
+    "word": "istituto",
+    "translation": "institute",
+    "type": "noun"
+  },
+  {
+    "word": "quadro",
+    "translation": "painting",
+    "type": "noun"
+  },
+  {
+    "word": "attenzione",
+    "translation": "attention",
+    "type": "noun"
+  },
+  {
+    "word": "autore",
+    "translation": "author",
+    "type": "noun"
+  },
+  {
+    "word": "difficoltà",
+    "translation": "difficulty",
+    "type": "noun"
+  },
+  {
+    "word": "passione",
+    "translation": "passion",
+    "type": "noun"
+  },
+  {
+    "word": "commissione",
+    "translation": "commission",
+    "type": "noun"
+  },
+  {
+    "word": "dito",
+    "translation": "finger",
+    "type": "noun"
+  },
+  {
+    "word": "inizio",
+    "translation": "Start",
+    "type": "noun"
+  },
+  {
+    "word": "programma",
+    "translation": "program",
+    "type": "noun"
+  },
+  {
+    "word": "spettacolo",
+    "translation": "show",
+    "type": "noun"
+  },
+  {
+    "word": "titolo",
+    "translation": "title",
+    "type": "noun"
+  },
+  {
+    "word": "comunicazione",
+    "translation": "communication",
+    "type": "noun"
+  },
+  {
+    "word": "fenomeno",
+    "translation": "phenomenon",
+    "type": "noun"
+  },
+  {
+    "word": "maggio",
+    "translation": "May",
+    "type": "noun"
+  },
+  {
+    "word": "stampa",
+    "translation": "press",
+    "type": "noun"
+  },
+  {
+    "word": "denaro",
+    "translation": "money",
+    "type": "noun"
+  },
+  {
+    "word": "destino",
+    "translation": "destiny",
+    "type": "noun"
+  },
+  {
+    "word": "dovere",
+    "translation": "duty",
+    "type": "noun"
+  },
+  {
+    "word": "ferro",
+    "translation": "iron",
+    "type": "noun"
+  },
+  {
+    "word": "punta",
+    "translation": "tip",
+    "type": "noun"
+  },
+  {
+    "word": "regno",
+    "translation": "kingdom",
+    "type": "noun"
+  },
+  {
+    "word": "epoca",
+    "translation": "era",
+    "type": "noun"
+  },
+  {
+    "word": "luna",
+    "translation": "moon",
+    "type": "noun"
+  },
+  {
+    "word": "provincia",
+    "translation": "province",
+    "type": "noun"
+  },
+  {
+    "word": "voglia",
+    "translation": "wish",
+    "type": "noun"
+  },
+  {
+    "word": "differenza",
+    "translation": "difference",
+    "type": "noun"
+  },
+  {
+    "word": "controllo",
+    "translation": "control",
+    "type": "noun"
+  },
+  {
+    "word": "grazia",
+    "translation": "grace",
+    "type": "noun"
+  },
+  {
+    "word": "passato",
+    "translation": "past",
+    "type": "noun"
+  },
+  {
+    "word": "spazio",
+    "translation": "space",
+    "type": "noun"
+  },
+  {
+    "word": "stella",
+    "translation": "star",
+    "type": "noun"
+  },
+  {
+    "word": "corsa",
+    "translation": "race",
+    "type": "noun"
+  },
+  {
+    "word": "erba",
+    "translation": "grass",
+    "type": "noun"
+  },
+  {
+    "word": "massa",
+    "translation": "mass",
+    "type": "noun"
+  },
+  {
+    "word": "origine",
+    "translation": "origin",
+    "type": "noun"
+  },
+  {
+    "word": "polizia",
+    "translation": "police",
+    "type": "noun"
+  },
+  {
+    "word": "soluzione",
+    "translation": "solution",
+    "type": "noun"
+  },
+  {
+    "word": "chilometro",
+    "translation": "kilometer",
+    "type": "noun"
+  },
+  {
+    "word": "madre",
+    "translation": "mother",
+    "type": "noun"
+  },
+  {
+    "word": "paura",
+    "translation": "fear",
+    "type": "noun"
+  },
+  {
+    "word": "cuore",
+    "translation": "heart",
+    "type": "noun"
+  },
+  {
+    "word": "idea",
+    "translation": "idea",
+    "type": "noun"
+  },
+  {
+    "word": "fondo",
+    "translation": "background",
+    "type": "noun"
+  },
+  {
+    "word": "esempio",
+    "translation": "example",
+    "type": "noun"
+  },
+  {
+    "word": "ordine",
+    "translation": "order",
+    "type": "noun"
+  },
+  {
+    "word": "posto",
+    "translation": "place",
+    "type": "noun"
+  },
+  {
+    "word": "campo",
+    "translation": "field",
+    "type": "noun"
+  },
+  {
+    "word": "faccia",
+    "translation": "face",
+    "type": "noun"
+  },
+  {
+    "word": "moglie",
+    "translation": "wife",
+    "type": "noun"
+  },
+  {
+    "word": "ragazzo",
+    "translation": "boy",
+    "type": "noun"
+  },
+  {
+    "word": "bisogno",
+    "translation": "need",
+    "type": "noun"
+  },
+  {
+    "word": "cielo",
+    "translation": "sky",
+    "type": "noun"
+  },
+  {
+    "word": "letto",
+    "translation": "bed",
+    "type": "noun"
+  },
+  {
+    "word": "fronte",
+    "translation": "front",
+    "type": "noun"
+  },
+  {
+    "word": "conto",
+    "translation": "bill",
+    "type": "noun"
+  },
+  {
+    "word": "corpo",
+    "translation": "body",
+    "type": "noun"
+  },
+  {
+    "word": "numero",
+    "translation": "number",
+    "type": "noun"
+  },
+  {
+    "word": "ministro",
+    "translation": "minister",
+    "type": "noun"
+  },
+  {
+    "word": "problema",
+    "translation": "problem",
+    "type": "noun"
+  },
+  {
+    "word": "chiesa",
+    "translation": "church",
+    "type": "noun"
+  },
+  {
+    "word": "braccio",
+    "translation": "arm",
+    "type": "noun"
+  },
+  {
+    "word": "bambino",
+    "translation": "child",
+    "type": "noun"
+  },
+  {
+    "word": "pensiero",
+    "translation": "thought",
+    "type": "noun"
+  },
+  {
+    "word": "pace",
+    "translation": "peace",
+    "type": "noun"
+  },
+  {
+    "word": "morte",
+    "translation": "death",
+    "type": "noun"
+  },
+  {
+    "word": "fine",
+    "translation": "end",
+    "type": "noun"
+  },
+  {
+    "word": "forma",
+    "translation": "form",
+    "type": "noun"
+  },
+  {
+    "word": "resto",
+    "translation": "rest",
+    "type": "noun"
+  },
+  {
+    "word": "popolo",
+    "translation": "people",
+    "type": "noun"
+  },
+  {
+    "word": "società",
+    "translation": "society",
+    "type": "noun"
+  },
+  {
+    "word": "studio",
+    "translation": "study",
+    "type": "noun"
+  },
+  {
+    "word": "legge",
+    "translation": "law",
+    "type": "noun"
+  },
+  {
+    "word": "libro",
+    "translation": "book",
+    "type": "noun"
+  },
+  {
+    "word": "figlia",
+    "translation": "daughter",
+    "type": "noun"
+  },
+  {
+    "word": "resto__1",
+    "translation": "rest",
+    "type": "noun"
+  },
+  {
+    "word": "luogo",
+    "translation": "place",
+    "type": "noun"
+  },
+  {
+    "word": "condizione",
+    "translation": "condition",
+    "type": "noun"
+  },
+  {
+    "word": "professore",
+    "translation": "teacher",
+    "type": "noun"
+  },
+  {
+    "word": "marito",
+    "translation": "husband",
+    "type": "noun"
+  },
+  {
+    "word": "verità",
+    "translation": "truth",
+    "type": "noun"
+  },
+  {
+    "word": "segno",
+    "translation": "sign",
+    "type": "noun"
+  },
+  {
+    "word": "diritto",
+    "translation": "right",
+    "type": "noun"
+  },
+  {
+    "word": "lettera",
+    "translation": "letter",
+    "type": "noun"
+  },
+  {
+    "word": "ragazza",
+    "translation": "girl",
+    "type": "noun"
+  },
+  {
+    "word": "scuola",
+    "translation": "school",
+    "type": "noun"
+  },
+  {
+    "word": "camera",
+    "translation": "room",
+    "type": "noun"
+  },
+  {
+    "word": "gruppo",
+    "translation": "group",
+    "type": "noun"
+  },
+  {
+    "word": "discorso",
+    "translation": "speech",
+    "type": "noun"
+  },
+  {
+    "word": "centro",
+    "translation": "center",
+    "type": "noun"
+  },
+  {
+    "word": "secolo",
+    "translation": "century",
+    "type": "noun"
+  },
+  {
+    "word": "mezzo",
+    "translation": "half",
+    "type": "noun"
+  },
+  {
+    "word": "tipo",
+    "translation": "guy",
+    "type": "noun"
+  },
+  {
+    "word": "colpa",
+    "translation": "fault",
+    "type": "noun"
+  },
+  {
+    "word": "rispetto",
+    "translation": "respect",
+    "type": "noun"
+  },
+  {
+    "word": "scena",
+    "translation": "scene",
+    "type": "noun"
+  },
+  {
+    "word": "oggetto",
+    "translation": "object",
+    "type": "noun"
+  },
+  {
+    "word": "possibilità",
+    "translation": "possibility",
+    "type": "noun"
+  },
+  {
+    "word": "mamma",
+    "translation": "mom",
+    "type": "noun"
+  },
+  {
+    "word": "presenza",
+    "translation": "presence",
+    "type": "noun"
+  },
+  {
+    "word": "teatro",
+    "translation": "theater",
+    "type": "noun"
+  },
+  {
+    "word": "caffè",
+    "translation": "coffee",
+    "type": "noun"
+  },
+  {
+    "word": "principio",
+    "translation": "principle",
+    "type": "noun"
+  },
+  {
+    "word": "termine",
+    "translation": "term",
+    "type": "noun"
+  },
+  {
+    "word": "lingua",
+    "translation": "tongue",
+    "type": "noun"
+  },
+  {
+    "word": "pezzo",
+    "translation": "piece",
+    "type": "noun"
+  },
+  {
+    "word": "capello",
+    "translation": "hair",
+    "type": "noun"
+  },
+  {
+    "word": "regione",
+    "translation": "region",
+    "type": "noun"
+  },
+  {
+    "word": "monte",
+    "translation": "Mountain",
+    "type": "noun"
+  },
+  {
+    "word": "università",
+    "translation": "university",
+    "type": "noun"
+  },
+  {
+    "word": "treno",
+    "translation": "train",
+    "type": "noun"
+  },
+  {
+    "word": "inverno",
+    "translation": "winter",
+    "type": "noun"
+  },
+  {
+    "word": "nazione",
+    "translation": "nation",
+    "type": "noun"
+  },
+  {
+    "word": "pagina",
+    "translation": "page",
+    "type": "noun"
+  },
+  {
+    "word": "scopo",
+    "translation": "purpose",
+    "type": "noun"
+  },
+  {
+    "word": "compagno",
+    "translation": "partner",
+    "type": "noun"
+  },
+  {
+    "word": "necessità",
+    "translation": "need",
+    "type": "noun"
+  },
+  {
+    "word": "potere",
+    "translation": "power",
+    "type": "noun"
+  },
+  {
+    "word": "musica",
+    "translation": "music",
+    "type": "noun"
+  },
+  {
+    "word": "dottore",
+    "translation": "doctor",
+    "type": "noun"
+  },
+  {
+    "word": "sentimento",
+    "translation": "feeling",
+    "type": "noun"
+  },
+  {
+    "word": "nave",
+    "translation": "ship",
+    "type": "noun"
+  },
+  {
+    "word": "pietra",
+    "translation": "Stone",
+    "type": "noun"
+  },
+  {
+    "word": "produzione",
+    "translation": "production",
+    "type": "noun"
+  },
+  {
+    "word": "speranza",
+    "translation": "hope",
+    "type": "noun"
+  },
+  {
+    "word": "dolore",
+    "translation": "ache",
+    "type": "noun"
+  },
+  {
+    "word": "carne",
+    "translation": "meat",
+    "type": "noun"
+  },
+  {
+    "word": "generale",
+    "translation": "general",
+    "type": "noun"
+  },
+  {
+    "word": "proposito",
+    "translation": "purpose",
+    "type": "noun"
+  },
+  {
+    "word": "elemento",
+    "translation": "element",
+    "type": "noun"
+  },
+  {
+    "word": "stazione",
+    "translation": "railway station",
+    "type": "noun"
+  },
+  {
+    "word": "materia",
+    "translation": "matter",
+    "type": "noun"
+  },
+  {
+    "word": "scala",
+    "translation": "ladder",
+    "type": "noun"
+  },
+  {
+    "word": "maniera",
+    "translation": "way",
+    "type": "noun"
+  },
+  {
+    "word": "arma",
+    "translation": "weapon",
+    "type": "noun"
+  },
+  {
+    "word": "autorità",
+    "translation": "authority",
+    "type": "noun"
+  },
+  {
+    "word": "gamba",
+    "translation": "leg",
+    "type": "noun"
+  },
+  {
+    "word": "patria",
+    "translation": "homeland",
+    "type": "noun"
+  },
+  {
+    "word": "albergo",
+    "translation": "hotel",
+    "type": "noun"
+  },
+  {
+    "word": "gioia",
+    "translation": "joy",
+    "type": "noun"
+  },
+  {
+    "word": "argomento",
+    "translation": "topic",
+    "type": "noun"
+  },
+  {
+    "word": "sguardo",
+    "translation": "look",
+    "type": "noun"
+  },
+  {
+    "word": "relazione",
+    "translation": "report",
+    "type": "noun"
+  },
+  {
+    "word": "classe",
+    "translation": "class",
+    "type": "noun"
+  },
+  {
+    "word": "battaglia",
+    "translation": "battle",
+    "type": "noun"
+  },
+  {
+    "word": "viso",
+    "translation": "face",
+    "type": "noun"
+  },
+  {
+    "word": "gesto",
+    "translation": "gesture",
+    "type": "noun"
+  },
+  {
+    "word": "mattino",
+    "translation": "morning",
+    "type": "noun"
+  },
+  {
+    "word": "opinione",
+    "translation": "opinion",
+    "type": "noun"
+  },
+  {
+    "word": "ponte",
+    "translation": "bridge",
+    "type": "noun"
+  },
+  {
+    "word": "sorriso",
+    "translation": "smile",
+    "type": "noun"
+  },
+  {
+    "word": "frase",
+    "translation": "phrase",
+    "type": "noun"
+  },
+  {
+    "word": "limite",
+    "translation": "limit",
+    "type": "noun"
+  },
+  {
+    "word": "ritorno",
+    "translation": "return",
+    "type": "noun"
+  },
+  {
+    "word": "bosco",
+    "translation": "wood",
+    "type": "noun"
+  },
+  {
+    "word": "esame",
+    "translation": "exam",
+    "type": "noun"
+  },
+  {
+    "word": "lato",
+    "translation": "side",
+    "type": "noun"
+  },
+  {
+    "word": "operazione",
+    "translation": "operation",
+    "type": "noun"
+  },
+  {
+    "word": "pranzo",
+    "translation": "lunch",
+    "type": "noun"
+  },
+  {
+    "word": "costa",
+    "translation": "it costs",
+    "type": "noun"
+  },
+  {
+    "word": "prato",
+    "translation": "meadow",
+    "type": "noun"
+  },
+  {
+    "word": "repubblica",
+    "translation": "republic",
+    "type": "noun"
+  },
+  {
+    "word": "valle",
+    "translation": "Valley",
+    "type": "noun"
+  },
+  {
+    "word": "nord",
+    "translation": "north",
+    "type": "noun"
+  },
+  {
+    "word": "fatica",
+    "translation": "fatigue",
+    "type": "noun"
+  },
+  {
+    "word": "odore",
+    "translation": "smell",
+    "type": "noun"
+  },
+  {
+    "word": "articolo",
+    "translation": "article",
+    "type": "noun"
+  },
+  {
+    "word": "costruzione",
+    "translation": "construction",
+    "type": "noun"
+  },
+  {
+    "word": "rivoluzione",
+    "translation": "Revolution",
+    "type": "noun"
+  },
+  {
+    "word": "zia",
+    "translation": "aunt",
+    "type": "noun"
+  },
+  {
+    "word": "confronto",
+    "translation": "comparison",
+    "type": "noun"
+  },
+  {
+    "word": "potenza",
+    "translation": "power",
+    "type": "noun"
+  },
+  {
+    "word": "sforzo",
+    "translation": "effort",
+    "type": "noun"
+  },
+  {
+    "word": "sicurezza",
+    "translation": "safety",
+    "type": "noun"
+  },
+  {
+    "word": "ufficiale",
+    "translation": "official",
+    "type": "noun"
+  },
+  {
+    "word": "crisi",
+    "translation": "crisis",
+    "type": "noun"
+  },
+  {
+    "word": "cucina",
+    "translation": "kitchen",
+    "type": "noun"
+  },
+  {
+    "word": "gatto",
+    "translation": "cat",
+    "type": "noun"
+  },
+  {
+    "word": "pietà",
+    "translation": "pity",
+    "type": "noun"
+  },
+  {
+    "word": "territorio",
+    "translation": "territory",
+    "type": "noun"
+  },
+  {
+    "word": "attimo",
+    "translation": "moment",
+    "type": "noun"
+  },
+  {
+    "word": "civiltà",
+    "translation": "civilization",
+    "type": "noun"
+  },
+  {
+    "word": "contatto",
+    "translation": "contact",
+    "type": "noun"
+  },
+  {
+    "word": "errore",
+    "translation": "error",
+    "type": "noun"
+  },
+  {
+    "word": "fretta",
+    "translation": "hurry",
+    "type": "noun"
+  },
+  {
+    "word": "intenzione",
+    "translation": "intention",
+    "type": "noun"
+  },
+  {
+    "word": "cultura",
+    "translation": "culture",
+    "type": "noun"
+  },
+  {
+    "word": "giudizio",
+    "translation": "judgement",
+    "type": "noun"
+  },
+  {
+    "word": "spesa",
+    "translation": "expense",
+    "type": "noun"
+  },
+  {
+    "word": "aiuto",
+    "translation": "Help",
+    "type": "noun"
+  },
+  {
+    "word": "ambiente",
+    "translation": "environment",
+    "type": "noun"
+  },
+  {
+    "word": "animo",
+    "translation": "mind",
+    "type": "noun"
+  },
+  {
+    "word": "bestia",
+    "translation": "beast",
+    "type": "noun"
+  },
+  {
+    "word": "cortile",
+    "translation": "courtyard",
+    "type": "noun"
+  },
+  {
+    "word": "pelle",
+    "translation": "skin",
+    "type": "noun"
+  },
+  {
+    "word": "proposta",
+    "translation": "proposal",
+    "type": "noun"
+  },
+  {
+    "word": "riva",
+    "translation": "shore",
+    "type": "noun"
+  },
+  {
+    "word": "segretario",
+    "translation": "secretary",
+    "type": "noun"
+  },
+  {
+    "word": "abito",
+    "translation": "dress",
+    "type": "noun"
+  },
+  {
+    "word": "chiave",
+    "translation": "key",
+    "type": "noun"
+  },
+  {
+    "word": "corrente",
+    "translation": "current",
+    "type": "noun"
+  },
+  {
+    "word": "operaio",
+    "translation": "worker",
+    "type": "noun"
+  },
+  {
+    "word": "corso",
+    "translation": "course",
+    "type": "noun"
+  },
+  {
+    "word": "finestra",
+    "translation": "window",
+    "type": "noun"
+  },
+  {
+    "word": "arte",
+    "translation": "art",
+    "type": "noun"
+  },
+  {
+    "word": "sistema",
+    "translation": "system",
+    "type": "noun"
+  },
+  {
+    "word": "piano",
+    "translation": "plan",
+    "type": "noun"
+  },
+  {
+    "word": "bocca",
+    "translation": "mouth",
+    "type": "noun"
+  },
+  {
+    "word": "anima",
+    "translation": "soul",
+    "type": "noun"
+  },
+  {
+    "word": "palazzo",
+    "translation": "palace",
+    "type": "noun"
+  },
+  {
+    "word": "passo",
+    "translation": "step",
+    "type": "noun"
+  },
+  {
+    "word": "giornata",
+    "translation": "day",
+    "type": "noun"
+  },
+  {
+    "word": "servizio",
+    "translation": "service",
+    "type": "noun"
+  },
+  {
+    "word": "rapporto",
+    "translation": "relationship",
+    "type": "noun"
+  },
+  {
+    "word": "milione",
+    "translation": "million",
+    "type": "noun"
+  },
+  {
+    "word": "stanza",
+    "translation": "room",
+    "type": "noun"
+  },
+  {
+    "word": "valore",
+    "translation": "value",
+    "type": "noun"
+  },
+  {
+    "word": "colpo",
+    "translation": "blow",
+    "type": "noun"
+  },
+  {
+    "word": "sangue",
+    "translation": "blood",
+    "type": "noun"
+  },
+  {
+    "word": "interesse",
+    "translation": "interest",
+    "type": "noun"
+  },
+  {
+    "word": "spalla",
+    "translation": "shoulder",
+    "type": "noun"
+  },
+  {
+    "word": "silenzio",
+    "translation": "silence",
+    "type": "noun"
+  },
+  {
+    "word": "signorina",
+    "translation": "young lady",
+    "type": "noun"
+  },
+  {
+    "word": "ombra",
+    "translation": "shadow",
+    "type": "noun"
+  },
+  {
+    "word": "azione",
+    "translation": "action",
+    "type": "noun"
+  },
+  {
+    "word": "vento",
+    "translation": "wind",
+    "type": "noun"
+  },
+  {
+    "word": "mattina",
+    "translation": "morning",
+    "type": "noun"
+  },
+  {
+    "word": "colore",
+    "translation": "color",
+    "type": "noun"
+  },
+  {
+    "word": "presidente",
+    "translation": "president",
+    "type": "noun"
+  },
+  {
+    "word": "consiglio",
+    "translation": "Advice",
+    "type": "noun"
+  },
+  {
+    "word": "principe",
+    "translation": "prince",
+    "type": "noun"
+  },
+  {
+    "word": "viaggio",
+    "translation": "travel",
+    "type": "noun"
+  },
+  {
+    "word": "genere",
+    "translation": "kind",
+    "type": "noun"
+  },
+  {
+    "word": "giornale",
+    "translation": "newspaper",
+    "type": "noun"
+  },
+  {
+    "word": "spirito",
+    "translation": "spirit",
+    "type": "noun"
+  },
+  {
+    "word": "cavallo",
+    "translation": "horse",
+    "type": "noun"
+  },
+  {
+    "word": "muro",
+    "translation": "Wall",
+    "type": "noun"
+  },
+  {
+    "word": "situazione",
+    "translation": "situation",
+    "type": "noun"
+  },
+  {
+    "word": "linea",
+    "translation": "line",
+    "type": "noun"
+  },
+  {
+    "word": "giro",
+    "translation": "round",
+    "type": "noun"
+  },
+  {
+    "word": "automobile",
+    "translation": "car",
+    "type": "noun"
+  },
+  {
+    "word": "atto",
+    "translation": "act",
+    "type": "noun"
+  },
+  {
+    "word": "aspetto",
+    "translation": "appearance",
+    "type": "noun"
+  },
+  {
+    "word": "età",
+    "translation": "age",
+    "type": "noun"
+  },
+  {
+    "word": "fortuna",
+    "translation": "luck",
+    "type": "noun"
+  },
+  {
+    "word": "oro",
+    "translation": "gold",
+    "type": "noun"
+  },
+  {
+    "word": "partito",
+    "translation": "party",
+    "type": "noun"
+  },
+  {
+    "word": "macchina",
+    "translation": "machine",
+    "type": "noun"
+  },
+  {
+    "word": "carta",
+    "translation": "paper",
+    "type": "noun"
+  },
+  {
+    "word": "minuto",
+    "translation": "minute",
+    "type": "noun"
+  },
+  {
+    "word": "tratto",
+    "translation": "stretch",
+    "type": "noun"
+  },
+  {
+    "word": "settimana",
+    "translation": "week",
+    "type": "noun"
+  },
+  {
+    "word": "notizia",
+    "translation": "news",
+    "type": "noun"
+  },
+  {
+    "word": "fratello",
+    "translation": "brother",
+    "type": "noun"
+  },
+  {
+    "word": "realtà",
+    "translation": "reality",
+    "type": "noun"
+  },
+  {
+    "word": "industria",
+    "translation": "industry",
+    "type": "noun"
+  },
+  {
+    "word": "piacere",
+    "translation": "pleasure",
+    "type": "noun"
+  },
+  {
+    "word": "maestro",
+    "translation": "master",
+    "type": "noun"
+  },
+  {
+    "word": "personaggio",
+    "translation": "character",
+    "type": "noun"
+  },
+  {
+    "word": "pomeriggio",
+    "translation": "afternoon",
+    "type": "noun"
+  },
+  {
+    "word": "fianco",
+    "translation": "side",
+    "type": "noun"
+  },
+  {
+    "word": "bambina",
+    "translation": "child",
+    "type": "noun"
+  },
+  {
+    "word": "bellezza",
+    "translation": "beauty",
+    "type": "noun"
+  },
+  {
+    "word": "domanda",
+    "translation": "question",
+    "type": "noun"
+  },
+  {
+    "word": "pianta",
+    "translation": "plant",
+    "type": "noun"
+  },
+  {
+    "word": "pubblico",
+    "translation": "public",
+    "type": "noun"
+  },
+  {
+    "word": "sede",
+    "translation": "seat",
+    "type": "noun"
+  },
+  {
+    "word": "affare",
+    "translation": "deal",
+    "type": "noun"
+  },
+  {
+    "word": "bene",
+    "translation": "well",
+    "type": "noun"
+  },
+  {
+    "word": "metà",
+    "translation": "half",
+    "type": "noun"
+  },
+  {
+    "word": "papà",
+    "translation": "Pope",
+    "type": "noun"
+  },
+  {
+    "word": "fiume",
+    "translation": "river",
+    "type": "noun"
+  },
+  {
+    "word": "lotta",
+    "translation": "fight",
+    "type": "noun"
+  },
+  {
+    "word": "mercato",
+    "translation": "market",
+    "type": "noun"
+  },
+  {
+    "word": "angolo",
+    "translation": "angle",
+    "type": "noun"
+  },
+  {
+    "word": "compagnia",
+    "translation": "company",
+    "type": "noun"
+  },
+  {
+    "word": "espressione",
+    "translation": "expression",
+    "type": "noun"
+  },
+  {
+    "word": "labbro",
+    "translation": "lip",
+    "type": "noun"
+  },
+  {
+    "word": "villa",
+    "translation": "villa",
+    "type": "noun"
+  },
+  {
+    "word": "desiderio",
+    "translation": "desire",
+    "type": "noun"
+  },
+  {
+    "word": "serie",
+    "translation": "series",
+    "type": "noun"
+  },
+  {
+    "word": "visita",
+    "translation": "visit",
+    "type": "noun"
+  },
+  {
+    "word": "coraggio",
+    "translation": "courage",
+    "type": "noun"
+  },
+  {
+    "word": "direttore",
+    "translation": "director",
+    "type": "noun"
+  },
+  {
+    "word": "esercito",
+    "translation": "army",
+    "type": "noun"
+  },
+  {
+    "word": "grado",
+    "translation": "degree",
+    "type": "noun"
+  },
+  {
+    "word": "padrone",
+    "translation": "master",
+    "type": "noun"
+  },
+  {
+    "word": "risposta",
+    "translation": "reply",
+    "type": "noun"
+  },
+  {
+    "word": "tavola",
+    "translation": "table",
+    "type": "noun"
+  },
+  {
+    "word": "immagine",
+    "translation": "image",
+    "type": "noun"
+  },
+  {
+    "word": "montagna",
+    "translation": "mountain",
+    "type": "noun"
+  },
+  {
+    "word": "energia",
+    "translation": "power",
+    "type": "noun"
+  },
+  {
+    "word": "fede",
+    "translation": "wedding ring",
+    "type": "noun"
+  },
+  {
+    "word": "pane",
+    "translation": "bread",
+    "type": "noun"
+  },
+  {
+    "word": "seguito",
+    "translation": "following",
+    "type": "noun"
+  },
+  {
+    "word": "estate",
+    "translation": "summer",
+    "type": "noun"
+  },
+  {
+    "word": "film",
+    "translation": "movie",
+    "type": "noun"
+  },
+  {
+    "word": "frutto",
+    "translation": "fruit",
+    "type": "noun"
+  },
+  {
+    "word": "onore",
+    "translation": "honor",
+    "type": "noun"
+  },
+  {
+    "word": "pericolo",
+    "translation": "danger",
+    "type": "noun"
+  },
+  {
+    "word": "scrittore",
+    "translation": "writer",
+    "type": "noun"
+  },
+  {
+    "word": "collina",
+    "translation": "hill",
+    "type": "noun"
+  },
+  {
+    "word": "zio",
+    "translation": "uncle",
+    "type": "noun"
+  },
+  {
+    "word": "difesa",
+    "translation": "defence",
+    "type": "noun"
+  },
+  {
+    "word": "metro",
+    "translation": "meter",
+    "type": "noun"
+  },
+  {
+    "word": "collo",
+    "translation": "neck",
+    "type": "noun"
+  },
+  {
+    "word": "cura",
+    "translation": "care",
+    "type": "noun"
+  },
+  {
+    "word": "disposizione",
+    "translation": "layout",
+    "type": "noun"
+  },
+  {
+    "word": "Domenica",
+    "translation": "Sunday",
+    "type": "noun"
+  },
+  {
+    "word": "giovanotto",
+    "translation": "young man",
+    "type": "noun"
+  },
+  {
+    "word": "poeta",
+    "translation": "poet",
+    "type": "noun"
+  },
+  {
+    "word": "stagione",
+    "translation": "season",
+    "type": "noun"
+  },
+  {
+    "word": "peso",
+    "translation": "weight",
+    "type": "noun"
+  },
+  {
+    "word": "tono",
+    "translation": "tone",
+    "type": "noun"
+  },
+  {
+    "word": "croce",
+    "translation": "cross",
+    "type": "noun"
+  },
+  {
+    "word": "decisione",
+    "translation": "decision",
+    "type": "noun"
+  },
+  {
+    "word": "poesia",
+    "translation": "poetry",
+    "type": "noun"
+  },
+  {
+    "word": "fiducia",
+    "translation": "confidence",
+    "type": "noun"
+  },
+  {
+    "word": "filo",
+    "translation": "wire",
+    "type": "noun"
+  },
+  {
+    "word": "folla",
+    "translation": "crowd",
+    "type": "noun"
+  },
+  {
+    "word": "qualità",
+    "translation": "quality",
+    "type": "noun"
+  },
+  {
+    "word": "roba",
+    "translation": "stuff",
+    "type": "noun"
+  },
+  {
+    "word": "conoscenza",
+    "translation": "knowledge",
+    "type": "noun"
+  },
+  {
+    "word": "favore",
+    "translation": "favor",
+    "type": "noun"
+  },
+  {
+    "word": "popolazione",
+    "translation": "population",
+    "type": "noun"
+  },
+  {
+    "word": "strumento",
+    "translation": "tool",
+    "type": "noun"
+  },
+  {
+    "word": "uso",
+    "translation": "use",
+    "type": "noun"
+  },
+  {
+    "word": "vestito",
+    "translation": "dress",
+    "type": "noun"
+  },
+  {
+    "word": "commercio",
+    "translation": "business",
+    "type": "noun"
+  },
+  {
+    "word": "fabbrica",
+    "translation": "factory",
+    "type": "noun"
+  },
+  {
+    "word": "giugno",
+    "translation": "June",
+    "type": "noun"
+  },
+  {
+    "word": "giustizia",
+    "translation": "justice",
+    "type": "noun"
+  },
+  {
+    "word": "avvocato",
+    "translation": "lawyer",
+    "type": "noun"
+  },
+  {
+    "word": "messa",
+    "translation": "mass",
+    "type": "noun"
+  },
+  {
+    "word": "orecchio",
+    "translation": "ear",
+    "type": "noun"
+  },
+  {
+    "word": "sonno",
+    "translation": "sleep",
+    "type": "noun"
+  },
+  {
+    "word": "congresso",
+    "translation": "congress",
+    "type": "noun"
+  },
+  {
+    "word": "porto",
+    "translation": "port",
+    "type": "noun"
+  },
+  {
+    "word": "calcio",
+    "translation": "football",
+    "type": "noun"
+  },
+  {
+    "word": "fantasia",
+    "translation": "fantasy",
+    "type": "noun"
+  },
+  {
+    "word": "matrimonio",
+    "translation": "marriage",
+    "type": "noun"
+  },
+  {
+    "word": "medico",
+    "translation": "doctor",
+    "type": "noun"
+  },
+  {
+    "word": "ospedale",
+    "translation": "Hospital",
+    "type": "noun"
+  },
+  {
+    "word": "pianura",
+    "translation": "flat land",
+    "type": "noun"
+  },
+  {
+    "word": "tavolo",
+    "translation": "table",
+    "type": "noun"
+  },
+  {
+    "word": "fame",
+    "translation": "hunger",
+    "type": "noun"
+  },
+  {
+    "word": "latte",
+    "translation": "milk",
+    "type": "noun"
+  },
+  {
+    "word": "merito",
+    "translation": "merit",
+    "type": "noun"
+  },
+  {
+    "word": "attore",
+    "translation": "actor",
+    "type": "noun"
+  },
+  {
+    "word": "ricchezza",
+    "translation": "wealth",
+    "type": "noun"
+  },
+  {
+    "word": "sacrificio",
+    "translation": "sacrifice",
+    "type": "noun"
+  },
+  {
+    "word": "atteggiamento",
+    "translation": "attitude",
+    "type": "noun"
+  },
+  {
+    "word": "concetto",
+    "translation": "concept",
+    "type": "noun"
+  },
+  {
+    "word": "mestiere",
+    "translation": "craft",
+    "type": "noun"
+  },
+  {
+    "word": "attesa",
+    "translation": "waiting",
+    "type": "noun"
+  },
+  {
+    "word": "bagno",
+    "translation": "bathroom",
+    "type": "noun"
+  },
+  {
+    "word": "foglia",
+    "translation": "leaf",
+    "type": "noun"
+  },
+  {
+    "word": "istante",
+    "translation": "instant",
+    "type": "noun"
+  },
+  {
+    "word": "lago",
+    "translation": "lake",
+    "type": "noun"
+  },
+  {
+    "word": "questo",
+    "translation": "this",
+    "type": "adjective"
+  },
+  {
+    "word": "quello",
+    "translation": "one",
+    "type": "adjective"
+  },
+  {
+    "word": "più",
+    "translation": "more",
+    "type": "adjective"
+  },
+  {
+    "word": "tutto",
+    "translation": "all",
+    "type": "adjective"
+  },
+  {
+    "word": "suo",
+    "translation": "his",
+    "type": "adjective"
+  },
+  {
+    "word": "altro",
+    "translation": "other",
+    "type": "adjective"
+  },
+  {
+    "word": "mio",
+    "translation": "my",
+    "type": "adjective"
+  },
+  {
+    "word": "quale",
+    "translation": "which",
+    "type": "adjective"
+  },
+  {
+    "word": "tanto",
+    "translation": "much",
+    "type": "adjective"
+  },
+  {
+    "word": "grande",
+    "translation": "great",
+    "type": "adjective"
+  },
+  {
+    "word": "poco",
+    "translation": "little",
+    "type": "adjective"
+  },
+  {
+    "word": "molto",
+    "translation": "very",
+    "type": "adjective"
+  },
+  {
+    "word": "nostro",
+    "translation": "our",
+    "type": "adjective"
+  },
+  {
+    "word": "stesso",
+    "translation": "same",
+    "type": "adjective"
+  },
+  {
+    "word": "primo",
+    "translation": "first",
+    "type": "adjective"
+  },
+  {
+    "word": "loro",
+    "translation": "their",
+    "type": "adjective"
+  },
+  {
+    "word": "ogni",
+    "translation": "every",
+    "type": "adjective"
+  },
+  {
+    "word": "proprio",
+    "translation": "own",
+    "type": "adjective"
+  },
+  {
+    "word": "solo",
+    "translation": "only",
+    "type": "adjective"
+  },
+  {
+    "word": "quanto",
+    "translation": "how much",
+    "type": "adjective"
+  },
+  {
+    "word": "bello",
+    "translation": "beautiful",
+    "type": "adjective"
+  },
+  {
+    "word": "qualche",
+    "translation": "some",
+    "type": "adjective"
+  },
+  {
+    "word": "nuovo",
+    "translation": "new",
+    "type": "adjective"
+  },
+  {
+    "word": "certo",
+    "translation": "of course",
+    "type": "adjective"
+  },
+  {
+    "word": "vero",
+    "translation": "TRUE",
+    "type": "adjective"
+  },
+  {
+    "word": "buono",
+    "translation": "good",
+    "type": "adjective"
+  },
+  {
+    "word": "tuo",
+    "translation": "your",
+    "type": "adjective"
+  },
+  {
+    "word": "nessuno",
+    "translation": "nobody",
+    "type": "adjective"
+  },
+  {
+    "word": "alcuno",
+    "translation": "any",
+    "type": "adjective"
+  },
+  {
+    "word": "italiano",
+    "translation": "Italian",
+    "type": "adjective"
+  },
+  {
+    "word": "ultimo",
+    "translation": "last",
+    "type": "adjective"
+  },
+  {
+    "word": "vecchio",
+    "translation": "old",
+    "type": "adjective"
+  },
+  {
+    "word": "piccolo",
+    "translation": "small",
+    "type": "adjective"
+  },
+  {
+    "word": "troppo",
+    "translation": "too much",
+    "type": "adjective"
+  },
+  {
+    "word": "tale",
+    "translation": "such",
+    "type": "adjective"
+  },
+  {
+    "word": "giovane",
+    "translation": "young",
+    "type": "adjective"
+  },
+  {
+    "word": "alto",
+    "translation": "tall",
+    "type": "adjective"
+  },
+  {
+    "word": "vostro",
+    "translation": "your",
+    "type": "adjective"
+  },
+  {
+    "word": "diverso",
+    "translation": "different",
+    "type": "adjective"
+  },
+  {
+    "word": "meglio",
+    "translation": "better",
+    "type": "adjective"
+  },
+  {
+    "word": "lungo",
+    "translation": "long",
+    "type": "adjective"
+  },
+  {
+    "word": "povero",
+    "translation": "poor",
+    "type": "adjective"
+  },
+  {
+    "word": "maggiore",
+    "translation": "greater",
+    "type": "adjective"
+  },
+  {
+    "word": "mezzo",
+    "translation": "half",
+    "type": "adjective"
+  },
+  {
+    "word": "secondo",
+    "translation": "second",
+    "type": "adjective"
+  },
+  {
+    "word": "lontano",
+    "translation": "far",
+    "type": "adjective"
+  },
+  {
+    "word": "vicino",
+    "translation": "close",
+    "type": "adjective"
+  },
+  {
+    "word": "possibile",
+    "translation": "possible",
+    "type": "adjective"
+  },
+  {
+    "word": "caro",
+    "translation": "Dear",
+    "type": "adjective"
+  },
+  {
+    "word": "pieno",
+    "translation": "full",
+    "type": "adjective"
+  },
+  {
+    "word": "nero",
+    "translation": "black",
+    "type": "adjective"
+  },
+  {
+    "word": "particolare",
+    "translation": "particular",
+    "type": "adjective"
+  },
+  {
+    "word": "bianco",
+    "translation": "White",
+    "type": "adjective"
+  },
+  {
+    "word": "forte",
+    "translation": "strong",
+    "type": "adjective"
+  },
+  {
+    "word": "politico",
+    "translation": "politic",
+    "type": "adjective"
+  },
+  {
+    "word": "attuale",
+    "translation": "current",
+    "type": "adjective"
+  },
+  {
+    "word": "latino",
+    "translation": "Latin",
+    "type": "adjective"
+  },
+  {
+    "word": "impossibile",
+    "translation": "impossible",
+    "type": "adjective"
+  },
+  {
+    "word": "sereno",
+    "translation": "serene",
+    "type": "adjective"
+  },
+  {
+    "word": "puro",
+    "translation": "pure",
+    "type": "adjective"
+  },
+  {
+    "word": "normale",
+    "translation": "normal",
+    "type": "adjective"
+  },
+  {
+    "word": "perfetto",
+    "translation": "perfect",
+    "type": "adjective"
+  },
+  {
+    "word": "piano",
+    "translation": "plan",
+    "type": "adjective"
+  },
+  {
+    "word": "caratteristico",
+    "translation": "characteristic",
+    "type": "adjective"
+  },
+  {
+    "word": "russo",
+    "translation": "Russian",
+    "type": "adjective"
+  },
+  {
+    "word": "continuo",
+    "translation": "continuous",
+    "type": "adjective"
+  },
+  {
+    "word": "stupido",
+    "translation": "stupid",
+    "type": "adjective"
+  },
+  {
+    "word": "estremo",
+    "translation": "extreme",
+    "type": "adjective"
+  },
+  {
+    "word": "grigio",
+    "translation": "Grey",
+    "type": "adjective"
+  },
+  {
+    "word": "reale",
+    "translation": "real",
+    "type": "adjective"
+  },
+  {
+    "word": "interessante",
+    "translation": "Interesting",
+    "type": "adjective"
+  },
+  {
+    "word": "medesimo",
+    "translation": "same",
+    "type": "adjective"
+  },
+  {
+    "word": "religioso",
+    "translation": "religious",
+    "type": "adjective"
+  },
+  {
+    "word": "ampio",
+    "translation": "large",
+    "type": "adjective"
+  },
+  {
+    "word": "biondo",
+    "translation": "blond",
+    "type": "adjective"
+  },
+  {
+    "word": "ufficiale",
+    "translation": "official",
+    "type": "adjective"
+  },
+  {
+    "word": "attento",
+    "translation": "careful",
+    "type": "adjective"
+  },
+  {
+    "word": "enorme",
+    "translation": "huge",
+    "type": "adjective"
+  },
+  {
+    "word": "sottile",
+    "translation": "thin",
+    "type": "adjective"
+  },
+  {
+    "word": "triste",
+    "translation": "sad",
+    "type": "adjective"
+  },
+  {
+    "word": "minimo",
+    "translation": "minimum",
+    "type": "adjective"
+  },
+  {
+    "word": "privato",
+    "translation": "private",
+    "type": "adjective"
+  },
+  {
+    "word": "rapido",
+    "translation": "rapid",
+    "type": "adjective"
+  },
+  {
+    "word": "quarto",
+    "translation": "fourth",
+    "type": "adjective"
+  },
+  {
+    "word": "diretto",
+    "translation": "direct",
+    "type": "adjective"
+  },
+  {
+    "word": "nobile",
+    "translation": "noble",
+    "type": "adjective"
+  },
+  {
+    "word": "pericoloso",
+    "translation": "dangerous",
+    "type": "adjective"
+  },
+  {
+    "word": "giallo",
+    "translation": "yellow",
+    "type": "adjective"
+  },
+  {
+    "word": "pazzo",
+    "translation": "crazy",
+    "type": "adjective"
+  },
+  {
+    "word": "sacro",
+    "translation": "sacred",
+    "type": "adjective"
+  },
+  {
+    "word": "comodo",
+    "translation": "comfortable",
+    "type": "adjective"
+  },
+  {
+    "word": "elettrico",
+    "translation": "electric",
+    "type": "adjective"
+  },
+  {
+    "word": "assoluto",
+    "translation": "absolute",
+    "type": "adjective"
+  },
+  {
+    "word": "cristiano",
+    "translation": "Christian",
+    "type": "adjective"
+  },
+  {
+    "word": "antico",
+    "translation": "ancient",
+    "type": "adjective"
+  },
+  {
+    "word": "rosso",
+    "translation": "red",
+    "type": "adjective"
+  },
+  {
+    "word": "chiaro",
+    "translation": "clear",
+    "type": "adjective"
+  },
+  {
+    "word": "unico",
+    "translation": "single",
+    "type": "adjective"
+  },
+  {
+    "word": "sicuro",
+    "translation": "sure",
+    "type": "adjective"
+  },
+  {
+    "word": "importante",
+    "translation": "important",
+    "type": "adjective"
+  },
+  {
+    "word": "vario",
+    "translation": "varied",
+    "type": "adjective"
+  },
+  {
+    "word": "giusto",
+    "translation": "quite right",
+    "type": "adjective"
+  },
+  {
+    "word": "francese",
+    "translation": "French",
+    "type": "adjective"
+  },
+  {
+    "word": "vivo",
+    "translation": "I live",
+    "type": "adjective"
+  },
+  {
+    "word": "generale",
+    "translation": "general",
+    "type": "adjective"
+  },
+  {
+    "word": "ricco",
+    "translation": "rich",
+    "type": "adjective"
+  },
+  {
+    "word": "grosso",
+    "translation": "big",
+    "type": "adjective"
+  },
+  {
+    "word": "necessario",
+    "translation": "necessary",
+    "type": "adjective"
+  },
+  {
+    "word": "libero",
+    "translation": "free",
+    "type": "adjective"
+  },
+  {
+    "word": "nazionale",
+    "translation": "national",
+    "type": "adjective"
+  },
+  {
+    "word": "basso",
+    "translation": "bass",
+    "type": "adjective"
+  },
+  {
+    "word": "semplice",
+    "translation": "simple",
+    "type": "adjective"
+  },
+  {
+    "word": "grave",
+    "translation": "serious",
+    "type": "adjective"
+  },
+  {
+    "word": "pubblico",
+    "translation": "public",
+    "type": "adjective"
+  },
+  {
+    "word": "comune",
+    "translation": "common",
+    "type": "adjective"
+  },
+  {
+    "word": "freddo",
+    "translation": "cold",
+    "type": "adjective"
+  },
+  {
+    "word": "economico",
+    "translation": "cheap",
+    "type": "adjective"
+  },
+  {
+    "word": "felice",
+    "translation": "happy",
+    "type": "adjective"
+  },
+  {
+    "word": "difficile",
+    "translation": "difficult",
+    "type": "adjective"
+  },
+  {
+    "word": "tedesco",
+    "translation": "German",
+    "type": "adjective"
+  },
+  {
+    "word": "breve",
+    "translation": "short",
+    "type": "adjective"
+  },
+  {
+    "word": "pronto",
+    "translation": "ready",
+    "type": "adjective"
+  },
+  {
+    "word": "serio",
+    "translation": "serious",
+    "type": "adjective"
+  },
+  {
+    "word": "presente",
+    "translation": "I'm here",
+    "type": "adjective"
+  },
+  {
+    "word": "migliore",
+    "translation": "best",
+    "type": "adjective"
+  },
+  {
+    "word": "facile",
+    "translation": "easy",
+    "type": "adjective"
+  },
+  {
+    "word": "terzo",
+    "translation": "third",
+    "type": "adjective"
+  },
+  {
+    "word": "caldo",
+    "translation": "hot",
+    "type": "adjective"
+  },
+  {
+    "word": "estero",
+    "translation": "abroad",
+    "type": "adjective"
+  },
+  {
+    "word": "largo",
+    "translation": "wide",
+    "type": "adjective"
+  },
+  {
+    "word": "pricipale",
+    "translation": "pricipale",
+    "type": "adjective"
+  },
+  {
+    "word": "verde",
+    "translation": "green",
+    "type": "adjective"
+  },
+  {
+    "word": "romano",
+    "translation": "Roman",
+    "type": "adjective"
+  },
+  {
+    "word": "umano",
+    "translation": "human",
+    "type": "adjective"
+  },
+  {
+    "word": "inutile",
+    "translation": "useless",
+    "type": "adjective"
+  },
+  {
+    "word": "moderno",
+    "translation": "modern",
+    "type": "adjective"
+  },
+  {
+    "word": "numeroso",
+    "translation": "numerous",
+    "type": "adjective"
+  },
+  {
+    "word": "simile",
+    "translation": "similar",
+    "type": "adjective"
+  },
+  {
+    "word": "fresco",
+    "translation": "fresh",
+    "type": "adjective"
+  },
+  {
+    "word": "militare",
+    "translation": "military",
+    "type": "adjective"
+  },
+  {
+    "word": "americano",
+    "translation": "American",
+    "type": "adjective"
+  },
+  {
+    "word": "vuoto",
+    "translation": "empty",
+    "type": "adjective"
+  },
+  {
+    "word": "ciascuno",
+    "translation": "each",
+    "type": "adjective"
+  },
+  {
+    "word": "tranquillo",
+    "translation": "quiet",
+    "type": "adjective"
+  },
+  {
+    "word": "contento",
+    "translation": "happy",
+    "type": "adjective"
+  },
+  {
+    "word": "storico",
+    "translation": "historical",
+    "type": "adjective"
+  },
+  {
+    "word": "superiore",
+    "translation": "higher",
+    "type": "adjective"
+  },
+  {
+    "word": "inglese",
+    "translation": "English",
+    "type": "adjective"
+  },
+  {
+    "word": "fermo",
+    "translation": "stationary",
+    "type": "adjective"
+  },
+  {
+    "word": "solito",
+    "translation": "usual",
+    "type": "adjective"
+  },
+  {
+    "word": "buio",
+    "translation": "dark",
+    "type": "adjective"
+  },
+  {
+    "word": "strano",
+    "translation": "strange",
+    "type": "adjective"
+  },
+  {
+    "word": "noto",
+    "translation": "known",
+    "type": "adjective"
+  },
+  {
+    "word": "prossimo",
+    "translation": "next one",
+    "type": "adjective"
+  },
+  {
+    "word": "profondo",
+    "translation": "deep",
+    "type": "adjective"
+  },
+  {
+    "word": "sociale",
+    "translation": "social",
+    "type": "adjective"
+  },
+  {
+    "word": "cattivo",
+    "translation": "bad",
+    "type": "adjective"
+  },
+  {
+    "word": "massimo",
+    "translation": "maximum",
+    "type": "adjective"
+  },
+  {
+    "word": "intero",
+    "translation": "full",
+    "type": "adjective"
+  },
+  {
+    "word": "uguale",
+    "translation": "equal",
+    "type": "adjective"
+  },
+  {
+    "word": "bravo",
+    "translation": "good boy",
+    "type": "adjective"
+  },
+  {
+    "word": "brutto",
+    "translation": "ugly",
+    "type": "adjective"
+  },
+  {
+    "word": "preciso",
+    "translation": "accurate",
+    "type": "adjective"
+  },
+  {
+    "word": "qualsiasi",
+    "translation": "any",
+    "type": "adjective"
+  },
+  {
+    "word": "improvviso",
+    "translation": "sudden",
+    "type": "adjective"
+  },
+  {
+    "word": "famoso",
+    "translation": "famous",
+    "type": "adjective"
+  },
+  {
+    "word": "straniero",
+    "translation": "foreigner",
+    "type": "adjective"
+  },
+  {
+    "word": "civile",
+    "translation": "civil",
+    "type": "adjective"
+  },
+  {
+    "word": "internazionale",
+    "translation": "international",
+    "type": "adjective"
+  },
+  {
+    "word": "interno",
+    "translation": "internal",
+    "type": "adjective"
+  },
+  {
+    "word": "vasto",
+    "translation": "extensive",
+    "type": "adjective"
+  },
+  {
+    "word": "segreto",
+    "translation": "secret",
+    "type": "adjective"
+  },
+  {
+    "word": "greco",
+    "translation": "Greek",
+    "type": "adjective"
+  },
+  {
+    "word": "naturale",
+    "translation": "natural",
+    "type": "adjective"
+  },
+  {
+    "word": "sinistro",
+    "translation": "left",
+    "type": "adjective"
+  },
+  {
+    "word": "duro",
+    "translation": "hard",
+    "type": "adjective"
+  },
+  {
+    "word": "stanco",
+    "translation": "tired",
+    "type": "adjective"
+  },
+  {
+    "word": "azzurro",
+    "translation": "light blue",
+    "type": "adjective"
+  },
+  {
+    "word": "recente",
+    "translation": "recent",
+    "type": "adjective"
+  },
+  {
+    "word": "notevole",
+    "translation": "remarkable",
+    "type": "adjective"
+  },
+  {
+    "word": "cittadino",
+    "translation": "citizen",
+    "type": "adjective"
+  },
+  {
+    "word": "destro",
+    "translation": "right",
+    "type": "adjective"
+  },
+  {
+    "word": "europeo",
+    "translation": "European",
+    "type": "adjective"
+  },
+  {
+    "word": "zitto",
+    "translation": "quiet",
+    "type": "adjective"
+  },
+  {
+    "word": "medio",
+    "translation": "average",
+    "type": "adjective"
+  },
+  {
+    "word": "qualunque",
+    "translation": "whatever",
+    "type": "adjective"
+  },
+  {
+    "word": "straordinario",
+    "translation": "extraordinary",
+    "type": "adjective"
+  },
+  {
+    "word": "nudo",
+    "translation": "naked",
+    "type": "adjective"
+  },
+  {
+    "word": "futuro",
+    "translation": "future",
+    "type": "adjective"
+  },
+  {
+    "word": "cattolico",
+    "translation": "Catholic",
+    "type": "adjective"
+  },
+  {
+    "word": "capace",
+    "translation": "able",
+    "type": "adjective"
+  },
+  {
+    "word": "industriale",
+    "translation": "industrial",
+    "type": "adjective"
+  },
+  {
+    "word": "personale",
+    "translation": "staff",
+    "type": "adjective"
+  },
+  {
+    "word": "centrale",
+    "translation": "central",
+    "type": "adjective"
+  },
+  {
+    "word": "tecnico",
+    "translation": "technical",
+    "type": "adjective"
+  },
+  {
+    "word": "dolce",
+    "translation": "sweet",
+    "type": "adjective"
+  },
+  {
+    "word": "leggero",
+    "translation": "light",
+    "type": "adjective"
+  },
+  {
+    "word": "morale",
+    "translation": "moral",
+    "type": "adjective"
+  },
+  {
+    "word": "utile",
+    "translation": "helpful",
+    "type": "adjective"
+  },
+  {
+    "word": "contrario",
+    "translation": "contrary",
+    "type": "adjective"
+  },
+  {
+    "word": "speciale",
+    "translation": "special",
+    "type": "adjective"
+  },
+  {
+    "word": "peggio",
+    "translation": "worse",
+    "type": "adjective"
+  },
+  {
+    "word": "minore",
+    "translation": "lower",
+    "type": "adjective"
+  },
+  {
+    "word": "contadino",
+    "translation": "farmer",
+    "type": "adjective"
+  }
+]

@@ -1,0 +1,670 @@
+{
+  "words": [
+    {
+      "id": "1",
+      "word": "essere",
+      "translation": "to be",
+      "type": "VERB"
+    },
+    {
+      "id": "1",
+      "word": "dovere",
+      "translation": "must",
+      "type": "VERB"
+    },
+    {
+      "id": "1",
+      "word": "avere",
+      "translation": "to have",
+      "type": "VERB"
+    },
+    {
+      "id": "1",
+      "word": "sapere",
+      "translation": "to know",
+      "type": "VERB"
+    },
+    {
+      "id": "1",
+      "word": "stare",
+      "translation": "to stay",
+      "type": "VERB"
+    },
+    {
+      "id": "1",
+      "word": "dovere",
+      "translation": "must",
+      "type": "VERB"
+    },
+    {
+      "id": "1",
+      "word": "vedere",
+      "translation": "to see",
+      "type": "VERB"
+    },
+    {
+      "id": "1",
+      "word": "andare",
+      "translation": "to go",
+      "type": "VERB"
+    },
+    {
+      "id": "1",
+      "word": "venire",
+      "translation": "to come",
+      "type": "VERB"
+    },
+    {
+      "id": "1",
+      "word": "dare",
+      "translation": "to give",
+      "type": "VERB"
+    },
+    {
+      "id": "1",
+      "word": "parlare",
+      "translation": "to speak",
+      "type": "VERB"
+    },
+    {
+      "id": "1",
+      "word": "trovare",
+      "translation": "to find",
+      "type": "VERB"
+    },
+    {
+      "id": "1",
+      "word": "sentire",
+      "translation": "to feel}, to hear",
+      "type": "VERB"
+    },
+    {
+      "id": "1",
+      "word": "lasciare",
+      "translation": "to leave",
+      "type": "VERB"
+    },
+    {
+      "id": "1",
+      "word": "prendere",
+      "translation": "to take",
+      "type": "VERB"
+    },
+    {
+      "id": "1",
+      "word": "guardare",
+      "translation": "to look",
+      "type": "VERB"
+    },
+    {
+      "id": "1",
+      "word": "mettere",
+      "translation": "to put",
+      "type": "VERB"
+    },
+    {
+      "id": "1",
+      "word": "pensare",
+      "translation": "to think",
+      "type": "VERB"
+    },
+    {
+      "id": "1",
+      "word": "passare",
+      "translation": "to pass",
+      "type": "VERB"
+    },
+    {
+      "id": "1",
+      "word": "credere",
+      "translation": "to believe",
+      "type": "VERB"
+    },
+    {
+      "id": "1",
+      "word": "portare",
+      "translation": "to bring",
+      "type": "VERB"
+    },
+    {
+      "id": "1",
+      "word": "ricordo",
+      "translation": "memory",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "albero",
+      "translation": "tree",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "politica",
+      "translation": "policy",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "processo",
+      "translation": "process",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "vino",
+      "translation": "wine",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "porta",
+      "translation": "door",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "sud",
+      "translation": "south",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "sogno",
+      "translation": "dream",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "cane",
+      "translation": "dog",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "isola",
+      "translation": "island",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "movimento",
+      "translation": "movement",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "mente",
+      "translation": "mind",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "occasione",
+      "translation": "opportunity",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "prezzo",
+      "translation": "price",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "causa",
+      "translation": "cause",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "periodo",
+      "translation": "period",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "sviluppo",
+      "translation": "development",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "sorella",
+      "translation": "sister",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "effetto",
+      "translation": "effect",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "giardino",
+      "translation": "garden",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "attività",
+      "translation": "activities",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "volontà",
+      "translation": "will",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "volto",
+      "translation": "face",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "base",
+      "translation": "basis",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "carattere",
+      "translation": "character",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "coscienza",
+      "translation": "consciousness",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "guardia",
+      "translation": "guard",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "memoria",
+      "translation": "memory",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "terreno",
+      "translation": "ground",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "animale",
+      "translation": "animal",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "direzione",
+      "translation": "direction",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "eccellenza",
+      "translation": "excellence",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "malattia",
+      "translation": "disease",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "scienza",
+      "translation": "science",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "funzione",
+      "translation": "function",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "conseguenza",
+      "translation": "result",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "parete",
+      "translation": "wall",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "dente",
+      "translation": "tooth",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "distanza",
+      "translation": "distance",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "gusto",
+      "translation": "taste",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "impressione",
+      "translation": "impression",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "istituto",
+      "translation": "institute",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "quadro",
+      "translation": "painting",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "attenzione",
+      "translation": "attention",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "autore",
+      "translation": "author",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "difficoltà",
+      "translation": "difficulty",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "passione",
+      "translation": "passion",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "commissione",
+      "translation": "commission",
+      "type": "NOUN"
+    },
+    {
+      "id": "1",
+      "word": "serio",
+      "translation": "serious",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "presente",
+      "translation": "I'm here",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "migliore",
+      "translation": "best",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "facile",
+      "translation": "easy",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "terzo",
+      "translation": "third",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "caldo",
+      "translation": "hot",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "estero",
+      "translation": "abroad",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "largo",
+      "translation": "wide",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "pricipale",
+      "translation": "pricipale",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "verde",
+      "translation": "green",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "romano",
+      "translation": "Roman",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "umano",
+      "translation": "human",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "inutile",
+      "translation": "useless",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "moderno",
+      "translation": "modern",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "numeroso",
+      "translation": "numerous",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "simile",
+      "translation": "similar",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "fresco",
+      "translation": "fresh",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "militare",
+      "translation": "military",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "americano",
+      "translation": "American",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "vuoto",
+      "translation": "empty",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "ciascuno",
+      "translation": "each",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "tranquillo",
+      "translation": "quiet",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "contento",
+      "translation": "happy",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "storico",
+      "translation": "historical",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "superiore",
+      "translation": "higher",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "inglese",
+      "translation": "English",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "fermo",
+      "translation": "stationary",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "solito",
+      "translation": "usual",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "buio",
+      "translation": "dark",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "strano",
+      "translation": "strange",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "noto",
+      "translation": "known",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "prossimo",
+      "translation": "next one",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "profondo",
+      "translation": "deep",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "sociale",
+      "translation": "social",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "cattivo",
+      "translation": "bad",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "massimo",
+      "translation": "maximum",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "intero",
+      "translation": "full",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "uguale",
+      "translation": "equal",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "bravo",
+      "translation": "good boy",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "brutto",
+      "translation": "ugly",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "preciso",
+      "translation": "accurate",
+      "type": "ADJECTIVE"
+    },
+    {
+      "id": "1",
+      "word": "qualsiasi",
+      "translation": "any",
+      "type": "ADJECTIVE"
+    }
+  ]
+}
